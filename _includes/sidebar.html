@@ -2,35 +2,53 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
+        <a href="{{ site.baseurl }}">Open Data Initiative 
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead">City of Austin, Texas</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a> -->
 
-      {% comment %}
+      <!-- {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+      {% endcomment %} -->
 
-      {% assign pages_list = site.pages %}
+      <!-- {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
-      {% endfor %}
+      {% endfor %} -->
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <span class="sidebar-nav-item">About</span>
+      <a class="sidebar-nav-sub-item" href="/about">Background, authority, and governance</a>
+       <a class="sidebar-nav-sub-item" href="/definitions">Definitions</a>
+      <span class="sidebar-nav-item">Using open data</span>
+      <a class="sidebar-nav-sub-item" href="/portal-terms-of-use">Portal terms of use </a>
+      <a class="sidebar-nav-sub-item" href="/attribution">How to attribute data to City of Austin</a>
+      <span class="sidebar-nav-item">Open data liaisons</span>
+      <a class="sidebar-nav-sub-item" href="/liaison-responsibilities">Roles and responsibilities</a>
+      <a class="sidebar-nav-sub-item" href="/current-liaisons">Current liaison roster</a>
+      <span class="sidebar-nav-item">Publishing open Data</span>
+      <a class="sidebar-nav-sub-item" href="/metadata">Metadata standard</a>
+      <a class="sidebar-nav-sub-item" href="/new-datasets">How to create new datasets</a>
+      <a class="sidebar-nav-sub-item" href="/quality">Data quality standard</a>
+      <span class="sidebar-nav-item">Improving open data</span>
+      <a class="sidebar-nav-sub-item" href="/suggestions">New dataset suggestions</a>
+      <a class="sidebar-nav-sub-item" href="/plans">Department open data plans</a>
+      <a class="sidebar-nav-sub-item" href="/feedback">Open data feedback</a>
+      <a class="sidebar-nav-sub-item" href="/progress">Progress tracking</a>
+
+
+      
+     <!--  <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
   </div>
 </div>

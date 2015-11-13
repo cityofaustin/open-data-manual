@@ -31,6 +31,8 @@
  * Update the foundational and global aspects of the page.
  */
 
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
@@ -79,8 +81,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: "Open Sans", serif;
+  font-size: 1.50rem;
 }
 
 /* Sidebar nav */
@@ -90,6 +92,11 @@ html {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+}
+.sidebar-nav-sub-item {
+  display: block;
+  font-size: 0.75rem;
+  line-height: 1.25;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
