@@ -1,6 +1,12 @@
-# Released under MIT License
+## This site makes use of open source software, including:
 
-Copyright (c) 2013 Mark Otto.
+### Poole
+
+Poole furnishes a full vanilla Jekyll install with example templates, pages, posts, and styles.
+
+#### Poole Released under MIT License
+
+Copyright (c) 2014 Mark Otto.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
