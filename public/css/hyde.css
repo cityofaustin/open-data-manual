@@ -4,11 +4,11 @@ div.incomplete {
     background-color: #44ABCF;
 }
 
-div.waiting {
+div.review {
     background-color: #CF6744;
 }
 
-div.research {
+div.research, span.research {
     background-color: #AE44CF;
 }
 
@@ -154,7 +154,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
+  line-height: 1.60;
 }
 .sidebar-nav-sub-item {
   display: block;
