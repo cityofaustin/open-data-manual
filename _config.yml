@@ -9,7 +9,7 @@ permalink:        pretty
 title:            'ATX Open Data'
 tagline:          'ATX Open Data Initiative'
 description:      ''
-url:              http://cityofaustin.github.io/open-data-docs
+# url:              http://cityofaustin.github.io/open-data-docs
 baseurl:          /
 
 author:
