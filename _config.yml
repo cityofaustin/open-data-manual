@@ -10,7 +10,7 @@ title:            'ATX Open Data'
 tagline:          'ATX Open Data Initiative'
 description:      ''
 # url:              http://cityofaustin.github.io/open-data-docs
-baseurl:          /
+baseurl:          open-data-docs/
 
 author:
   name:           ''
