@@ -9,12 +9,12 @@ permalink:        pretty
 title:            'ATX Open Data'
 tagline:          'ATX Open Data Initiative'
 description:      ''
-url:              
+url:              http://cityofaustin.github.io/open-data-docs/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           ''
+  url:            ''
 
 paginate:         5
 
@@ -23,4 +23,4 @@ gems:             [jekyll-paginate]
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/cityofaustin/open-data-docs
