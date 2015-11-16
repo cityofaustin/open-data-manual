@@ -1,5 +1,44 @@
 /* custom styles */
 
+div.incomplete {
+    background-color: #44ABCF;
+}
+
+div.waiting {
+    background-color: #CF6744;
+}
+
+div.research {
+    background-color: #AE44CF;
+}
+
+div.not-started {
+    background-color: #777;
+}
+
+.badge {
+  display: inline-block;
+  min-width: 10px;
+  padding: 3px 7px;
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #777;
+  border-radius: 10px;
+}
+
+.badge-item {
+  min-width: 1px;
+  padding: 3px;
+  font-size: 12px;
+  line-height: 1;
+  color: #fff;
+  white-space: nowrap;
+}
 .open-data-title {
   color: #8AA8B0;
 }
