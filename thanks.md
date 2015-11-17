@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'Thank you!'
+file: thanks.md
 ---
 
 
