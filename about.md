@@ -17,4 +17,8 @@ things to mention here include:
 
 # Authority
 
+<<<<<<< HEAD
 # Governance
+=======
+# Governance
+>>>>>>> origin/master
