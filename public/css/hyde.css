@@ -1,18 +1,18 @@
 /* custom styles */
 
-div.incomplete {
+div.beta, span.beta {
     background-color: #44ABCF;
 }
 
-div.review {
+div.alpha, span.alpha {
     background-color: #CF6744;
 }
 
-div.research, span.research {
-    background-color: #AE44CF;
+div.live, span.live {
+    background-color: #6AD147;
 }
 
-div.not-started {
+div.discovery, span.discovery {
     background-color: #777;
 }
 
@@ -58,6 +58,13 @@ span.sidebar-nav-item{
 
 h1 {
   font-size: 1.5rem;
+}
+
+footer {
+  font-size: .7rem;
+  color: #777;
+  font-style: italic;
+  padding-top: 1rem;
 }
 
 
