@@ -18,5 +18,3 @@ things to mention here include:
 # Authority
 
 # Governance
-
-we can add to these docs without coding. woot!
