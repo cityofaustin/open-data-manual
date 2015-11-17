@@ -18,5 +18,3 @@ things to mention here include:
 # Authority
 
 # Governance
-
-<aside>what does an aside look like?</aside>
