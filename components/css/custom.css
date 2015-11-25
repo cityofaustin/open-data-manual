@@ -1,0 +1,19 @@
+/* custom styles by hailey... dev version */
+
+.navbar-brand {
+  float: left;
+  height: 30px;
+  padding: 10px 10px;
+  font-size: 18px;
+  line-height: 8px
+}
+
+.navbar-nav>li>a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 10px
+}
+
+.navbar {
+  min-height: 30px;
+}

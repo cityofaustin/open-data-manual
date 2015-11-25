@@ -4,12 +4,18 @@
   {% include head.html %}
 
   <body>
+  	{% include top-nav.html %}
 
-    {% include sidebar.html %}
-
-    <div class="content container">
+    <div class="container">
       {{ content }}
-    </div>
+    </div><!-- /.container -->
 
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="/components/scripts/bootstrap.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/components/scripts/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
