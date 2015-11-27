@@ -1,29 +1,67 @@
-<div class="sidebar">
+<div class="col-sm-3 col-md-2 sidebar"><!--start of sidebar-->
+  
+  <ul class="nav nav-sidebar">
+      <li >Open Data Manual</li>
+  </ul>
+    <ul class="nav nav-sidebar">
+      <li class="active"><a href="#">Overview <span class="sr-only">(current)</span></a></li>
+      <li><a href="#">Reports</a></li>
+      <li><a href="#">Analytics</a></li>
+      <li><a href="#">Export</a></li>
+    </ul>
+    <ul class="nav nav-sidebar">
+      <li><a href="">Nav item</a></li>
+      <li><a href="">Nav item again</a></li>
+      <li><a href="">One more nav</a></li>
+      <li><a href="">Another nav item</a></li>
+      <li><a href="">More navigation</a></li>
+    </ul>
+    <ul class="nav nav-sidebar">
+      <li><a href="">Nav item again</a></li>
+      <li><a href="">One more nav</a></li>
+      <li><a href="">Another nav item</a></li>
+    </ul>
+
+</div><!--end of sidebar-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}"><span class="open-data-title">Open Data</span> Manual
-        </a>
+        <a href="{{ site.baseurl }}">Open Data Manual</a>
       </h1>
-      <p class="lead">City of Austin<br>Open Data Initiative</p>
+      <p>City of Austin<br>Open Data Initiative</p>
     </div>
 
-    <nav class="sidebar-nav">
-      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a> -->
 
-      <!-- {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %} -->
-
-      <!-- {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %} -->
 
       <div><span class="badge-item"><div class="badge discovery">?</div> = Discovery phase</span>  <span class="badge-item"><div class="badge alpha">a</div> = Alpha phase</span>  <span class="badge-item"><div class="badge beta">b</div> = Beta phase</span>  <span class="badge-item"><div class="badge live">L</div> = Live phase</span>
       </div>
@@ -33,13 +71,13 @@
       
       
 
-      <span class="sidebar-nav-item">About</span>
-      <a class="sidebar-nav-sub-item" href="{{site.url}}/about">Background, authority, and governance <div class="badge discovery">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.url}}/definitions">Definitions <div class="badge discovery">?</div></a>
+      <li><span class="sidebar-nav-item">About</span></li>
+      <li><a class="sidebar-nav-sub-item" href="{{site.url}}/about">Background, authority, and governance <div class="badge discovery">?</div></a></li>
+      <li><a class="sidebar-nav-sub-item" href="{{site.url}}/definitions">Definitions <div class="badge discovery">?</div></a></li>
       
-      <span class="sidebar-nav-item">Using open data</span>
-      <a class="sidebar-nav-sub-item" href="{{site.url}}/portal-terms-of-use">Portal terms of use <div class="badge discovery">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.url}}/attribution">How to attribute data to City of Austin <div class="badge discovery">?</div></a>
+      <li><span class="sidebar-nav-item">Using open data</span></li>
+      <li><a class="sidebar-nav-sub-item" href="{{site.url}}/portal-terms-of-use">Portal terms of use <div class="badge discovery">?</div></a></li>
+      <li><a class="sidebar-nav-sub-item" href="{{site.url}}/attribution">How to attribute data to City of Austin <div class="badge discovery">?</div></a></li>
       
       <span class="sidebar-nav-item">Improving open data</span>
       <a class="sidebar-nav-sub-item" href="{{site.url}}/suggestions">New dataset suggestions <div class="badge discovery">?</div></a>
@@ -59,17 +97,18 @@
       <a class="sidebar-nav-sub-item" href="{{site.url}}/not-for-publishing">Sensitive and protected data <div class="badge discovery">?</div></a>
       <a class="sidebar-nav-sub-item" href="{{site.url}}/publishers">Authorized publishers <div class="badge discovery">?</div></a>
 
-      <p>-----------</p>
+
       <a class="sidebar-nav-sub-item" href="{{site.url}}/thanks"><em>Thanks to... </em><div class="badge discovery">?</div></a>
 
 
       
-     <!--  <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
     
 
 
-    <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
+ --> 
