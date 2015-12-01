@@ -20,7 +20,7 @@ paginate:         5
 
 gems:             [jekyll-paginate]
 # Custom vars
-version:          2.1.0
+version:          0.0.0
 
 github:
   repo:           https://github.com/cityofaustin/open-data-docs
