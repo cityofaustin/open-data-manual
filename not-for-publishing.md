@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'When data should not be published'
+file: not-for-publishing.md
 ---
 
 _this page is currently in_ <span class="badge research">research phase</span>

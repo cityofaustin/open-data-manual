@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'Open data feedback'
+file: feedback.md
 ---
 
 ## This page is all about feedback 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Austin's Open Data Initiative (draft)"
+file: about.md
 ---
 
 > The City of Austin is committed to an open and transparent government. I believe this is an integral part of maintaining a vital and robust democracy.
@@ -17,8 +18,4 @@ things to mention here include:
 
 # Authority
 
-<<<<<<< HEAD
 # Governance
-=======
-# Governance
->>>>>>> origin/master

@@ -1,0 +1,50 @@
+/* custom styles by hailey... dev version */
+
+
+.navbar-fixed-top {
+	padding-bottom: 0px;
+}
+
+
+.navbar-brand {
+  float: left;
+  height: 25px;
+  padding: 10px 10px;
+  font-size: 15px;
+  line-height: 8px
+}
+
+.navbar-nav>li>a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 10px
+}
+
+.navbar {
+  min-height: 25px;
+  padding-bottom: 0px;
+}
+
+.navbar-nav>li>a {
+	line-height: 6px;
+}
+
+ul.nav.navbar-nav {
+	font-size: 12px;
+}
+
+/*@media (min-width: 400px)*/
+.navbar-nav {
+    float: right;
+    margin: 0;
+}
+
+div.sidebar {
+	top: 25px;
+}
+
+.nav-sidebar>li>a {
+	font-size: 12px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+}

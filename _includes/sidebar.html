@@ -1,68 +1,101 @@
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}"><span class="open-data-title">Open Data</span> Initiative
-        </a>
-      </h1>
-      <p class="lead">City of Austin</p>
-    </div>
+<div class="col-sm-3 col-md-2 sidebar"><!--start of sidebar-->
+  
+  <ul class="nav nav-sidebar">
+      <li>Open Data Manual</li>
+  </ul>
+    <ul class="nav nav-sidebar">
+      <li>About</li>
+      <li><a href="{{site.url}}/about">Background, authority, and governance</a></li>
+      <li><a href="{{site.url}}/definitions">Definitions</a></li>
+    </ul>
+    <ul class="nav nav-sidebar">
+      <li>Using Open Data</li>
+      <li><a href="{{site.url}}/portal-terms-of-use">Portal terms of use</a></li>
+      <li><a href="{{site.url}}/attribution">How to attribute data to City of Austin</a></li>
+      <li><a href="{{site.url}}/feedback">Open data feedback</a></li>
+    </ul>
+    <ul class="nav nav-sidebar">
+      <li>Developing Open Data</li>
+      <li><a href="{{site.url}}/suggestions">New dataset suggestions</a></li>
+      <li><a href="{{site.url}}/plans">Department open data plans</a></li>
+      <li><a href="{{site.url}}/progress">Progress tracking</a></li>
+    </ul>
+    <ul class="nav nav-sidebar">
+      <li>Publishing Open Data</li>
+      <li><a href="{{site.url}}/new-datasets">How to create new datasets</a></li>
+      <li><a href="{{site.url}}/licensing">Licensing policy</a></li>
+      <li><a href="{{site.url}}/not-for-publishing">Sensitive and protected data</a></li>
+      <li><a href="{{site.url}}/metadata">Metadata standard</a></li>
+      <li><a href="{{site.url}}/quality">Data quality standard</a></li>
+      <li><a href="{{site.url}}/publishers">Authorized publishers</a></li>
+    </ul>
+    <ul class="nav nav-sidebar">
+      <li>Open Data Liaisons</li>
+      <li><a href="{{site.url}}/liaison-responsibilities">Roles and responsibilities</a></li>
+      <li><a href="{{site.url}}/current-liaisons">Current liaison roster</a></li>
+    </ul>
 
-    <nav class="sidebar-nav">
-      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a> -->
+<a href="{{site.url}}/thanks"><em>Thanks to... </em></a>
 
-      <!-- {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %} -->
+<br>Currently v{{ site.version }}
 
-      <!-- {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %} -->
-
-      <div><span class="badge-item"><div class="badge research">?</div> = Research Phase</span>  <span class="badge-item"><div class="badge incomplete">I</div> = Incomplete</span>  <span class="badge-item"><div class="badge review">N</div> = Needs review</span>  <span class="badge-item"><div class="badge not-started">N</div> = Not started</span>
-      </div>
+</div><!--end of sidebar-->
 
 
-      
-      
-      
 
-      <span class="sidebar-nav-item">About</span>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}about">Background, authority, and governance <div class="badge research">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}definitions">Definitions <div class="badge not-started">N</div></a>
-      
-      <span class="sidebar-nav-item">Using open data</span>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}portal-terms-of-use">Portal terms of use <div class="badge research">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}attribution">How to attribute data to City of Austin <div class="badge research">?</div></a>
-      
-      <span class="sidebar-nav-item">Improving open data</span>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}suggestions">New dataset suggestions <div class="badge research">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}plans">Department open data plans <div class="badge incomplete">I</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}feedback">Open data feedback <div class="badge research">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}progress">Progress tracking <div class="badge not-started">N</div></a>
-      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div class="sidebar">
+ 
+
       <span class="sidebar-nav-item">Open data liaisons</span>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}liaison-responsibilities">Roles and responsibilities <div class="badge research">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}current-liaisons">Current liaison roster <div class="badge not-started">N</div></a>
+      <a class="sidebar-nav-sub-item"  <div class="badge discovery">?</div></a>
+      <a class="sidebar-nav-sub-item"  <div class="badge discovery">?</div></a>
       
       <span class="sidebar-nav-item">Publishing open data</span>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}licensing">Licensing policy <div class="badge incomplete">I</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}metadata">Metadata standard <div class="badge research">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}new-datasets">How to create new datasets <div class="badge research">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}quality">Data quality standard <div class="badge not-started">N</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}not-for-publishing">Sensitive and protected data <div class="badge research">?</div></a>
-      <a class="sidebar-nav-sub-item" href="{{site.baseurl}}publishers">Authorized publishers <div class="badge not-started">N</div></a>
+      <a class="sidebar-nav-sub-item"  <div class="badge discovery">?</div></a>
+      <a class="sidebar-nav-sub-item" href="{{site.url}}/metadata">Metadata standard <div class="badge discovery">?</div></a>
+      <a class="sidebar-nav-sub-item" href="{{site.url}}/new-datasets">How to create new datasets <div class="badge discovery">?</div></a>
+      <a class="sidebar-nav-sub-item"  <div class="badge discovery">?</div></a>
+      <a class="sidebar-nav-sub-item"  <div class="badge discovery">?</div></a>
+      <a class="sidebar-nav-sub-item" href="{{site.url}}/publishers">Authorized publishers <div class="badge discovery">?</div></a>
+
+
+      <a class="sidebar-nav-sub-item" href="{{site.url}}/thanks"><em>Thanks to... </em><div class="badge discovery">?</div></a>
+
 
       
-     <!--  <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
-    <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+    
+
+
+     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
+ --> 
