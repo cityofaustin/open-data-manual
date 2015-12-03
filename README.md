@@ -9,3 +9,11 @@ This repo is used to develop and publish documents about the City of Austin's Op
 Details forthcoming...
 
 in the meantime, edit a markdown file or leave an issue
+
+#Quick Start
+
+```
+sudo gem install jekyll
+
+jekyll serve
+```
