@@ -1,6 +1,7 @@
 ---
 layout: plan
 title: Animal Services
+department: ANM
 ---
 
 plan stuff goes here
