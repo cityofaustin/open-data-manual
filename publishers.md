@@ -19,4 +19,3 @@ things to mention here include:
 # Authority
 
 # Governance
-
