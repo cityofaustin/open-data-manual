@@ -12,7 +12,7 @@ department: ANM
 
 - simple PIR log (not related to official PIR process)
 
-#### Socrata Pipeline Notes
+### Pipeline Notes
 
-<iframe src="https://airtable.com/embed/shrX3Ln748vqXFJqd?layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: #fff; border: 1px solid #ccc;"></iframe>
+<iframe src="https://airtable.com/embed/shrX3Ln748vqXFJqd?layout=card" frameborder="0" onmousewheel="" width="100%" height="300" style="background: #fff; border: 1px solid #ccc;"></iframe>
 	
