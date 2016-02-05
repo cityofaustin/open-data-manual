@@ -18,7 +18,10 @@ author:
 
 paginate:         5
 
-gems:             [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
 # Custom vars
 version:          0.0.0
 
