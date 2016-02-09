@@ -18,9 +18,11 @@ file: metadata.md
 This document explains how to use metadata to describe open data assets held by the City of Austin. 
 
 Scenarios in which someone would use these metadata standards include:
+
 * An open data liaison publishing a new resource to the City's open data portal
 * A City web developer wanting to make a department's open data offerings more discoverable by search engines
 * A member of the public looking for a dataset to use in a project
+
 
 There are many ways to use metadata. Our current goal is to increase the use of common, consistent metadata labels across City departments. 
 
