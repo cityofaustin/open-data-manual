@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+
+<div class="page">
+	<a href="https://github.com/cityofaustin/open-data-docs/blob/gh-pages/{{page.file}}">Edit this page</a>
+	<h1 class="page-title" style="margin-bottom: 5px;">{{ page.title }}</h1>
+	<h1 class="text-uppercase project-subtitle"><small>{{ page.type }} Definition Document</small></h1>
+
+	<dl>
+		<dt>Coordinator:</dt>
+		<dd>{{page.coordinator-name}}</dd>
+		<dt>Email:</dt>
+		<dd>{{page.coordinator-email}}</dd>
+	</dl>
+
+	<dl>
+		<dt>Start date:</dt>
+		<dd>{{page.start}}</dd>
+		<dt>End date:</dt>
+		<dd>{{page.end}}</dd>
+	</dl>
+	{{ content }}
+</div>
