@@ -27,7 +27,7 @@ The City of Austin first deployed its Socrata-based open data portal website in 
 ### Key stakeholders
 to be completed
 
-### Key resources
+### Resources
 to be completed
 
 ### Scope exclusions
