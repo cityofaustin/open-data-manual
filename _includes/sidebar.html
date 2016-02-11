@@ -4,16 +4,42 @@
       <li>Open Data Library</li>
   </ul>
 
-    <ul class="nav nav-sidebar">
-      <li>About the Initiative</li>
-      <li><a href="{{site.baseurl}}/about">Background, authority, and governance</a></li>
-      <li><a href="{{site.baseurl}}/definitions">Definitions</a></li>
-      <li><a href="{{site.baseurl}}/projects">Past and current projects</a></li>
-      <li><a href="{{site.baseurl}}/progress">Progress tracking</a></li>
-    </ul>
+  <div class="panel-group" id="accordion" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingOne">
+        <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapseListGroup1" aria-expanded="false" aria-controls="collapseListGroup1">About the Initiative</a></h4>
+      </div><!--panel-heading-->
+      <div id="collapseListGroup1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapseListGroupHeading1"> 
+        <ul class="list-group nav nav-sidebar"> 
+        <li class="list-group-item"><a href="{{site.baseurl}}/about">Background, authority, and governance</a></li>
+        <li class="list-group-item"><a href="{{site.baseurl}}/definitions">Definitions</a></li>
+      <li class="list-group-item"><a href="{{site.baseurl}}/projects">Past and current projects</a></li>
+      <li class="list-group-item"><a href="{{site.baseurl}}/progress">Progress tracking</a></li>
+        </ul> 
+        </div><!--panel-collapse-->
+  </div><!--panel-->
 
-    <ul class="nav nav-sidebar">
-      <li>Open Data Liaisons</li>
+  <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingTwo">
+        <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapseListGroup2" aria-expanded="false" aria-controls="collapseListGroup2">Open Data Liaisons</a></h4>
+      </div><!--panel-heading-->
+      <div id="collapseListGroup2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapseListGroupHeading2"> 
+        <ul class="list-group nav nav-sidebar"> 
+        <li class="list-group-item"><a href="{{site.baseurl}}/liaison-responsibilities">Roles and responsibilities</a></li>
+        <li class="list-group-item"><a href="{{site.baseurl}}/current-liaisons">Current liaison roster</a></li>
+        </ul> 
+        </div><!--panel-collapse-->
+  </div><!--panel-->
+</div><!--panel-group-->
+
+
+
+
+
+
+
+     
+      <!-- <li>Open Data Liaisons</li>
       <li><a href="{{site.baseurl}}/liaison-responsibilities">Roles and responsibilities</a></li>
       <li><a href="{{site.baseurl}}/current-liaisons">Current liaison roster</a></li>
     </ul>
@@ -32,7 +58,6 @@
       <li><a href="{{site.baseurl}}/not-for-publishing">Sensitive and protected data</a></li>
       <li><a href="{{site.baseurl}}/metadata">Metadata standard</a></li>
       <li><a href="{{site.baseurl}}/quality">Data quality standard</a></li>
-<!--       <li><a href="{{site.baseurl}}/publishers">Authorized publishers</a></li> -->
     </ul>
 
     <ul class="nav nav-sidebar">
@@ -41,11 +66,14 @@
       <li><a href="{{site.baseurl}}/attribution">How to attribute data to City of Austin</a></li>
       <li><a href="{{site.baseurl}}/feedback">Sending open data feedback</a></li>
     </ul>
+    
+    
 
 
-<a href="{{site.baseurl}}/thanks"><em>Thanks to... </em></a>
 
-<br>Currently v{{ site.version }}
+<a href="{{site.baseurl}}/thanks"><em>Thanks to... </em></a> -->
+
+<br>Currently v{{ site.version }} -->
 
 </div><!--end of sidebar-->
 
