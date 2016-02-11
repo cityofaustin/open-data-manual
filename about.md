@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Austin's Open Data Initiative (draft)"
+title: "About Austin's Open Data Initiative (draft)"
 file: about.md
 ---
 

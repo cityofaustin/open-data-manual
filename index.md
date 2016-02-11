@@ -3,19 +3,29 @@ layout: default
 title: Open Data Manual
 ---
 
-<h1>Open data documentation...</h1>
+# Welcome to Austin's Open Data Handbook!
 
-<p>What if we had one site where we could find and manage all the documents related to open data at the City of Austin?</p>
+<p class="bg-info"><em>The purpose of this website is to provide a central location for building and publishing documents related to Austin's Open Data Initiative. For a brief introduction to the initiative, click <a href="{{site.baseurl}}/about">here</a>.</em></p>
 
-<p>What if that site automatically tracked our document history so nothing gets lost?</p>
 
-<p>What if the site was built for collaboration... so we could discuss our work out in the open and make it easy for people to learn how to pitch in?</p>
+***
 
-<p>How about a website that can be edited without downloads or coding? All for free?</p>
+#### Open Data Initiative Sprint 2.1 *kicks off on Tuesday, February 16!*
 
-<p>Maybe this can be that site!</p>
+ This session will be one you won’t want to miss! Join us at [Capitol Factory](https://capitalfactory.com/), one of Austin's hottest local tech incubator spaces! They are graciously opening their doors to us and sincerely want to support our efforts to make Austin an even better place to live through open data. In addition to presenting our sprint ideas, setting expectations, and forming action teams for the next 90 days, we'll take an insiders' tour of Capitol Factory's awesome coworking and meeting space. 
 
-<p>Let's keep building and see what happens...</p>
+##### **resources:**
+
+- [Meeting agenda](https://docs.google.com/document/d/1HVjI4ZiXROxwRb1zfkcu6m26YGvJW29Y85HhKBc-PAI/)
+
+- [Sprint 2.1 definition document]({{site.baseurl}}/projects/sprint_2_1)
+
+
+Questions? Send Matt an [email](matthew.esquibel@austintexas.gov).
+
+***
+
+### Status of documents and site "things to do":
 
 
 

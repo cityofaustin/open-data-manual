@@ -1,6 +1,13 @@
 /* custom styles by hailey... dev version */
 
 
+nav div.container {
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-right: 5px;
+}
+
+
 .panel-title {
   font-size: 1em;
   text-transform: lowercase;
