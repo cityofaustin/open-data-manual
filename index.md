@@ -20,12 +20,14 @@ title: Open Data Manual
 
 - [Sprint 2.1 definition document]({{site.baseurl}}/projects/sprint_2_1)
 
+- [Kick-off day slides](https://docs.google.com/presentation/d/1g-zuj-SS6I8-cS2Wzm6p3cEtfAUQRHYGw5Ze2ctCJqM/edit?usp=sharing)
+
 
 Questions? Send Matt an [email](matthew.esquibel@austintexas.gov).
 
 ***
 
-### Status of documents and site "things to do":
+<!-- ### Status of documents and site "things to do": -->
 
 
 
