@@ -13,13 +13,13 @@ background: 'The City of Austin first deployed its Socrata-based open data porta
 
 <!-- Please refer to `layouts/project.html` for template and table content -->
 
-### Key stakeholders
-to be completed
+<!--### Key stakeholders-->
+<!--to be completed-->
 
-### Scope exclusions
-to be completed
+<!--### Scope exclusions-->
+<!--to be completed-->
 
-### Change management
-to be completed
+<!--### Change management-->
+<!--to be completed-->
 
 
