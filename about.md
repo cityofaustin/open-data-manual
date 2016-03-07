@@ -23,4 +23,15 @@ things to mention here include:
 
 # Authority
 
+
+### Open Government Resolution by City Council - December 8, 2011
+
+### [Open Government Directive - August 26, 2013]({{site.baseurl}}/directive)
+
+<br/>
+*Other key documents:*
+
+- Austin Government Online Audit - August 2013
+
+
 # Governance
