@@ -1,13 +1,16 @@
 ---
-title: Open Government Directive
-layout: page
+title: City of Austin Open Government Directive
+layout: single-document
+author: CTM Collaboration Services
+status: Incomplete draft
+version: 0.1
+publication-date: not applicable
+notes: needs markup!
 ---
 
 
-*status:* content only... needs markup
 
-City of Austin Open Government Directive
-Introduction
+<h2>Introduction</h2>
 With the development of new technologies and an increasingly connected and engaged population, a growing expectation has been placed on the City of Austin government leaders to adopt open government practices that will promote transparency, citizen participation, and collaboration. In order to change how government works, provide more effective government services, and establish a more robust democracy, the City of Austin adopts the following open government principles:
 The City of Austin is committed to transparency. The City of Austin should adopt policies, practices, and procedures that allow citizens to have access to understandable, accurate, reusable, and auditable data and information about government operations and decision-making (with updates available as they are made, whenever possible). City departments should use new technologies to put information about their operations and decisions online. Departments should also seek public feedback to identify information of greatest use to the public. The City should operate under a presumption of openness and accessibility, while also maintaining privacy, confidentiality, security and compliance with all relevant laws. These policies, practices, and procedures will increase accountability, promote informed public participation, and create economic development opportunities.
 The City of Austin is committed to meaningful public participation. The City of Austin believes members of the public have a valuable role in governing their communities and should have opportunities to take part in government decision-making. The City of Austin supports establishing guidelines and practices that will enable the public to contribute opinions and ideas regarding political, economic, management, and other decisions using a variety of methods, as conveniently as possible for citizens. These guidelines and practices will create more informed and effective policies and enhance and expand opportunities for the public to participate throughout decision-making processes.
@@ -15,7 +18,7 @@ The City of Austin is committed to collaborating with the public and across gove
 The City of Austin is committed to sharing best practices and software and other resources with other government entities.
 The City of Austin acknowledges that, in the face of budget decreases, government entities at every level must cut costs and find efficiencies. An enormous cost-saving opportunity exists in the City’s information technology resource acquisition practices. The City of Austin supports collaborating with other government entities to share technology resources, lessons learned, and best practices; reform procurement practices, policies, and procedures; and learn to function not only as a provider of services but as a source for other government entities, the public, and other organizations to add value to the City’s services.
 Open Government Directive: These commitments require that the City create a legal framework that will institutionalize the principles of transparency, participation, and collaboration into the culture and work of The City of Austin government. Therefore, the City Manager shall establish within [90 days] an Open Government Directive to guide the implementation of open government.
-Open Government Directive
+<h2>Open Government Directive</h2>
 The City of Austin is committed to creating an unprecedented level of openness in government. City officials will work together and with the public to ensure open and effective government as well aspublic trust and establish a system of transparency, public participation, collaboration, and accountability.
 This memorandum requires The City of Austin departments and agencies to take the following steps to achieve the goal of creating a more open government:
 1. Publish Government Information Online

@@ -112,3 +112,14 @@ h5 {
 h6 {
     font-size: 12px
 }
+
+.about-document {
+  font-size: .6em;
+  width: 50%;
+  height: 80%;
+}
+
+div.edit-page-links {
+  font-size: .8em;
+  padding-bottom: 10px;
+}

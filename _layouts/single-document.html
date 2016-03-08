@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+
+<div class="page">
+	<div class="edit-page-links">
+		<a href="https://github.com/cityofaustin/open-data-docs/commits/gh-pages/{{page.file}}">View page history | </a><a href="https://github.com/cityofaustin/open-data-docs/blob/gh-pages/{{page.file}}">Edit this page</a>
+	</div>
+	<article>
+		<table class="table table-condensed about-document">
+			<tbody>
+				<tr>
+					<th>Document status</th>
+					<td>{{page.status}}</td>
+				</tr>
+				<tr>
+					<th>Version</th>
+					<td>{{page.version}}</td>
+				</tr>
+				<tr>
+					<th>Publication date</th>
+					<td>{{page.publication-date}}</td>
+				</tr>
+				<tr>
+					<th>Author</th>
+					<td>{{page.author}}</td>
+				</tr>
+				<tr>
+					<th>Notes</th>
+					<td>{{page.notes}}</td>
+				</tr>
+			</tbody>
+		</table>
+		<h1 class="page-title">{{ page.title }}</h1>
+		{{ content }}
+	</article>
+</div>
