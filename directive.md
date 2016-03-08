@@ -5,7 +5,7 @@ author: CTM Collaboration Services
 status: Incomplete draft
 version: 0.1
 publication-date: not applicable
-notes: needs markup!
+notes: 'Discussion and to-do items are <a href="https://github.com/cityofaustin/open-data-docs/issues?utf8=%E2%9C%93&q=+milestone%3A%22add+Open+Government+Directive%22+">here</a>'
 ---
 
 
