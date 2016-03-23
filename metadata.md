@@ -15,16 +15,19 @@ file: metadata.md
 ### About this document
 
 
-This document explains how to use metadata to describe open data assets held by the City of Austin. 
+This document explains how to use metadata to describe open data assets held by the City of Austin. By using a common and consistent metadata vocabulary across City departments, we can make it easier for people to discover and use City information. 
 
-Scenarios in which someone would use these metadata standards include:
+**When would someone use these metadata standards?**
 
 * An open data liaison publishing a new resource to the City's open data portal
 * A City web developer wanting to make a department's open data offerings more discoverable by search engines
 * A member of the public looking for a dataset to use in a project
 
+**What does the metadata standard contain?**
 
-There are many ways to use metadata. Our current goal is to increase the use of common, consistent metadata labels across City departments. 
+* A list of descriptors (metadata elements) that should be provided whenever a dataset is published on the open data portal
+* Description of when to use the metadata elements
+* Details about how to use each element correctly
 
 #### Design principles
 
@@ -32,18 +35,22 @@ There are many ways to use metadata. Our current goal is to increase the use of 
 * Start small and increase the number of elements over time
 * Develop openly and in close collaboration with end users
 
-#### Additional resources
-* Metadata FAQ (coming soon)
-* Open Data FAQ (coming soon)
+<!--#### Additional resources-->
+<!--* Metadata FAQ (coming soon)-->
+<!--* Open Data FAQ (coming soon)-->
 
 ***
 
-# List of standard metadata elements
+# When to use these metadata elements:
 
-## To describe an open dataset:
+#### Required
+Use of the standard metadata elements is required when publishing any dataset to the open data portal. The metadata values should also be included in the open data inventory. 
 > An open dataset is a table, map, or any other resource that is published to the open data portal.
 
-#### What elements are always required?
+#### Optional
+Any time a public dataset is shared internally or publically, it is beneficial to include these metadata elements in a note or accessory file that accompanies the share. All City of Austin staff and partners are welcome to use this standard. 
+
+# List of required elements:
 
 Element name | Definition | Format/Example 
 --- | --- | --- 
@@ -54,25 +61,16 @@ Element name | Definition | Format/Example
 `Publisher` | The publishing entity and optionally their parent organization(s). | 
 `Tags` | Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users. | 
 
-(incomplete)
 
-#### What elements are sometimes required? 
-
-Element name | Definition | Format/Example 
---- | --- | --- 
-`_` | | 
-`_` | | 
-
-(incomplete)
-
-#### What elements are optional? 
+# List of optional elements: 
 
 Element name | Definition | Format/Example 
 --- | --- | --- 
 `_` | | 
 `_` | | 
 
-(incomplete)
+(to be determined)
+
 
 #### References
 - [Project Open Data Schema 1.1](https://project-open-data.cio.gov/v1.1/schema/)
