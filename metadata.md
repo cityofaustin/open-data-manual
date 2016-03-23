@@ -52,22 +52,32 @@ Any time a public dataset is shared internally or publically, it is beneficial t
 
 # List of required elements:
 
-Element name | Definition | Format/Example 
---- | --- | --- 
-`Title` | Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery. | 
-`Description` | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. | 
-`Last Update` | Most recent date on which the dataset was changed, updated or modified. | 
-`Department Budget Code`  | The code for the COA Department represented by the dataset, as listed by the Budget Office. (needs link to dataset) | 
-`Publisher` | The publishing entity and optionally their parent organization(s). | 
-`Tags` | Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users. | 
+***
 
+`Title` </br>
+Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.
+***
+
+`Description` <br/>
+Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.
+***
+
+`Last Update` <br/>
+Most recent date on which the dataset was changed, updated or modified.
+***
+
+`Department Budget Code` <br/>
+The code for the COA Department represented by the dataset, as listed by the Budget Office. (needs link to dataset)
+***
+
+`Publisher` <br/>
+The publishing entity and optionally their parent organization(s).
+***
+
+`Tags`<br/>
+Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.
 
 # List of optional elements: 
-
-Element name | Definition | Format/Example 
---- | --- | --- 
-`_` | | 
-`_` | | 
 
 (to be determined)
 
