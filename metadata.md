@@ -14,7 +14,6 @@ file: metadata.md
 
 ### About this document
 
-
 This document explains how to use metadata to describe open data assets held by the City of Austin. By using a common and consistent metadata vocabulary across City departments, we can make it easier for people to discover and use City information. 
 
 **When would someone use these metadata standards?**
@@ -35,12 +34,6 @@ This document explains how to use metadata to describe open data assets held by 
 * Start small and increase the number of elements over time
 * Develop openly and in close collaboration with end users
 
-<!--#### Additional resources-->
-<!--* Metadata FAQ (coming soon)-->
-<!--* Open Data FAQ (coming soon)-->
-
-***
-
 # When to use these metadata elements:
 
 #### Required
@@ -52,29 +45,22 @@ Any time a public dataset is shared internally or publically, it is beneficial t
 
 # List of required elements:
 
-***
-
-`Title` </br>
+#### `Title`
 Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.
-***
 
-`Description` <br/>
+#### `Description` 
 Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.
-***
 
-`Last Update` <br/>
+####`Last Update`
 Most recent date on which the dataset was changed, updated or modified.
-***
 
-`Department Budget Code` <br/>
+#### `Department Budget Code`
 The code for the COA Department represented by the dataset, as listed by the Budget Office. (needs link to dataset)
-***
 
-`Publisher` <br/>
+#### `Publisher`
 The publishing entity and optionally their parent organization(s).
-***
 
-`Tags`<br/>
+#### `Tags`
 Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.
 
 # List of optional elements: 
