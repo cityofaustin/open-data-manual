@@ -7,7 +7,7 @@ coordinator-name: 'Charles Purma'
 coordinator-email: 'charles.purmaiii@austintexas.gov'
 start: 'February 16, 2016'
 end: 'May 16, 2016'
-purpose: 'The purpose of this document is to describe the sprint project that focuses on data quality, collaboration, and updating Austin’s open data portal. It identifies key stakeholders, goals, and documents to be delivered.'
+purpose: 'The purpose of this document is to describe a specific sprint project that focuses on data quality, collaboration, and updating Austin’s open data portal. It identifies key contacts, goals, and where to find project documents.'
 background: 'The City of Austin first deployed its Socrata-based open data portal website in November 2011 as part of the City’s open government strategy outlined by Resolution 20111208-74. Since then, the Communication and Technology Management Department has led initiatives and projects to increase support for and usage of open data practices, including most recently Sprint 2.0 in 2015. Sprint 2.1 seeks to continue the momentum sparked last year by reiterating the City’s commitment to “Open by Default”, using data more purposefully, and demonstrating positive impact on the community we serve. '
 ---
 
