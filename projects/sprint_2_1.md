@@ -3,8 +3,8 @@ layout: project
 title: 'Open Data Initiative Sprint 2.1'
 type: sprint
 file: projects/sprint_2_1.md
-coordinator-name: 'Matt Esquibel'
-coordinator-email: 'Add email'
+coordinator-name: 'Charles Purma'
+coordinator-email: 'charles.purmaiii@austintexas.gov'
 start: 'February 16, 2016'
 end: 'May 16, 2016'
 purpose: 'The purpose of this document is to describe the sprint project that focuses on data quality, collaboration, and updating Austin’s open data portal. It identifies key stakeholders, goals, and documents to be delivered.'
