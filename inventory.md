@@ -56,7 +56,7 @@ Cupcake ipsum dolor sit. Amet bonbon gingerbread tiramisu croissant. Jujubes jel
 * Topping toffee wafer gummi bears tootsie roll.
 * Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
 
-# View the current inventory
+# View the current inventory (experimental)
 
-\[airtable insert goes here\]
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrz1xwqcxvm117x1?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
