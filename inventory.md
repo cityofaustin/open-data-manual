@@ -33,7 +33,7 @@ file: inventory.md
 * Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
 
 
-## Background on City Data Inventory Process
+## Background on City Data Inventory Project
 
 On April 8, 2015, the City Manager issued a memorandum directing all departments to participate in the City of Austin Open Data Initiative 2.0. Included in that memorandum was a requirement that each department create an inventory of known data that it managed and maintained that would indicate:
 
@@ -60,7 +60,7 @@ The initial working version of the dataset inventory was published in Sharepoint
 * Data Type  
 * Upload Frequency
 
-## City Data Inventory Policies
+## Current City Data Inventory Policies
 
 This is where we describe the current policies concerning the data inventory.
 
@@ -75,6 +75,12 @@ This includes includes policies on:
 
 This is where we describe the current procedures for creating the data inventory.
 
+This should include the procedures for
+
+- Researching and gathering the information
+-   Referring to the San Francisco 3 step model
+- Processing and incorporating into AirTable
+-   This can include information on importing into AirTable
 
 
 ## How to participate
