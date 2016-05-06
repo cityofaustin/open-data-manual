@@ -63,7 +63,7 @@ Purpose:  to enable a user to determine whether the asset is of interest
 
 Granularity: Character limit?  500?  1000?
 
-Public
+**Public**
 
 #### `Last Update`
 Most recent date on which the dataset was changed, updated or modified. 
@@ -74,7 +74,7 @@ Purpose:  identifying stale datasets
 
 Granularity:  date (could be datetime, but really?)
 
-Public
+**Public**
 
 #### `Publisher`
 The publishing entity and optionally their parent organization(s).
@@ -83,7 +83,7 @@ Purpose:  What is the purpose?  To allow the user to determine source of data?  
 
 Granularity:  City department?  Department and division?  Anything more granular than department would need to be optional since datasets may span departments or be the results of collaborative effort.
 
-Public
+**Public**
 
 #### `Tags`
 Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.
@@ -94,7 +94,7 @@ Purpose: for use in search fields - how would this differ from the information i
 
 Granularity: Character limit XXX
 
-Public
+**Public**
 
 ####`Technical Contact`
 Email address of the technical contact responsible for the data.  ONLY if private metadata is allowed.
@@ -112,7 +112,7 @@ Purpose:  Users can choose to set page size or download dataset depending on the
 
 Granularity:  integer
 
-Public
+**Public**
 
 
 # List of optional elements: 
@@ -125,19 +125,19 @@ Purpose: What information are you trying to impart to the public with this?  Ori
 
 Granularity:  same issue
 
-Public
+**Public**
 
 #### `Update Frequency`
 Purpose: Right now we're wasting title space with the words Annual, Weekly, Monthly, Quarterly, Every Five Years, whatever.  
 And some data sets may be one-time things.  Take, for example, oh, a post-SXSW customer survey.  They might not ask all the same questions two years in a row. 
 But if I'm looking at data for road closures, I  want to know if I need to check back for changes tomorrow or next month. Makes a difference.
 Granularity:  editable drop-down list
-Public
+**Public**
 
 #### `Related Datasets`
 Purpose:  Separate datasets that may be useful together.  Some of these exist already and have been incorporated into GIS maps -- awesome.  Let's say, bike paths, public parks events, and bus schedules.  All different kinds of data, but if a person is looking at one they might say "oh hey, that one is useful too..."  Could also link datasets with their charted subsets.
 Granularity:  title/url
-Public
+**Public**
 
 ####`Data Dictionary`
 Purpose:  I stole this from San Fran but wow, it would be wonderful.  I have column names right now with things like International Revenue Enplanements, International Revenue Deplanements, Domestic Revenue Enplanements, Domestic Revenue Deplanements, International Non-Revenue Enplanements....AIEEEEEEEEEE!!!  My columns are ten feet wide.
@@ -148,7 +148,7 @@ I won't even go into the data sets where one column value is pounds per square i
 
 Granularity:  nvarchar(max) but try to keep it brief
 
-Public
+**Public**
 
 
 
