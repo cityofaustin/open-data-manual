@@ -62,7 +62,7 @@ The initial working version of the dataset inventory was published in Sharepoint
 
 ## City Data Inventory Policies
 
-<<This is where we describe the current policies concerning the data inventory.>>
+<This is where we describe the current policies concerning the data inventory.>
 
 
 
