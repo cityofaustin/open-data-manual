@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'City Data Inventory (DRAFT)'
+title: 'City Dataset Inventory (DRAFT)'
 file: inventory.md
 ---
 
