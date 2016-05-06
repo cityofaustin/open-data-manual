@@ -35,13 +35,13 @@ Additional guidelines set forth by CTM were that the inventory should:
 
 The initial working version of the dataset inventory was published in Sharepoint for internal use only and included the following fields:
 
-Description  
-Dataset Title  
-Publication Status  
-Justification  
-Planned Date  
-Data Type  
-Upload Frequency
+*Description  
+*Dataset Title  
+*Publication Status  
+*Justification  
+*Planned Date  
+*Data Type  
+*Upload Frequency
 
 
 ## About the inventory project
