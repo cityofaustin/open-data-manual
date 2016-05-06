@@ -12,7 +12,7 @@ file: inventory.md
 
 ***
 
-## About the inventory project
+## About the Data Inventory Project
 
 **Project goals**
 
