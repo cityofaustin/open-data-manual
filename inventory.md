@@ -18,7 +18,7 @@ Cupcake ipsum dolor sit. Amet bonbon gingerbread tiramisu croissant. Jujubes jel
 
 ## Background on City of Austin Data Inventory
 
-On April 8, 2015, the City Manager issued a memorandum directing all departments to participate in the City of Austin Open Data Initiative 2.0. Included in that memorandum was a requirement that each department create an inventory of known data managed and maintained that would indicate:
+On April 8, 2015, the City Manager issued a memorandum directing all departments to participate in the City of Austin Open Data Initiative 2.0. Included in that memorandum was a requirement that each department create an inventory of known data that it managed and maintained that would indicate:
 
 a. If the information is publicly-accessible;  
 b. The date of when the information was made publicly-accessible or when it is scheduled to be made public;  
