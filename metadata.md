@@ -56,15 +56,14 @@ Human-readable name of the asset. Should be in plain English and include suffici
 
 #### `Description` 
 Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.   
-Holly - Perhaps 'Sufficiently detailed summary or abstract to clarify contents beyond title'.  
+***Holly*** - Perhaps 'Sufficiently detailed summary or abstract to clarify contents beyond title'.  
 **Purpose:**  to enable a user to determine whether the asset is of interest  
 **Granularity:** Character limit?  500?  1000?  
 **Public**  
 
 #### `Last Update`
-Most recent date on which the dataset was changed, updated or modified. 
-
-Holly - I am assuming this will be automated.  One goal of metadata is to make it as user-friendly as possible from both sides, the client and the publisher.  No one wants to update their metadata every time they update their dataset.  
+Most recent date on which the dataset was changed, updated or modified.   
+***Holly*** - I am assuming this will be automated.  One goal of metadata is to make it as user-friendly as possible from both sides, the client and the publisher.  No one wants to update their metadata every time they update their dataset.  
 **Purpose:**  identifying stale datasets  
 **Granularity:**  date (could be datetime, but really?)  
 **Public**
@@ -76,8 +75,8 @@ The publishing entity and optionally their parent organization(s).
 **Public**
 
 #### `Tags`
-Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.  
-Holly - use keywords.  Tags, labels, etc. are used by proprietary software.  
+Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.   
+***Holly*** - use keywords.  Tags, labels, etc. are used by proprietary software.  
 **Purpose:** for use in search fields - how would this differ from the information in the description metadata?  If your description is sufficient, it should hit most or all of the keywords.  Perhaps synonyms.  
 **Granularity:** Character limit XXX  
 **Public**
