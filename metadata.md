@@ -50,22 +50,16 @@ Holly - to make sure we are thinking these through, I am adding three comment ar
 
 #### `Title`
 Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.
-**Purpose:**  To facilitate initial search and discovery.  Truncate description after "plain English".  Sufficient detail is implicit.
-
-**Granularity:**  Character limit? 100?
-
+**Purpose:**  To facilitate initial search and discovery.  Truncate description after "plain English".  Sufficient detail is implicit.  
+**Granularity:**  Character limit? 100?  
 **Public**
 
 #### `Description` 
-Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.
-
-Holly - Perhaps 'Sufficiently detailed summary or abstract to clarify contents beyond title'.
-
-**Purpose:**  to enable a user to determine whether the asset is of interest
-
-**Granularity:** Character limit?  500?  1000?
-
-**Public**
+Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.   
+Holly - Perhaps 'Sufficiently detailed summary or abstract to clarify contents beyond title'.  
+**Purpose:**  to enable a user to determine whether the asset is of interest  
+**Granularity:** Character limit?  500?  1000?  
+**Public**  
 
 #### `Last Update`
 Most recent date on which the dataset was changed, updated or modified. 
