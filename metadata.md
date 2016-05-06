@@ -47,15 +47,12 @@ Any time a public dataset is shared internally or publically, it is beneficial t
 
 Holly - to make sure we are thinking these through, I am adding three comment areas to each element:  Purpose (why include this component of metadata?), granularity (scale of element or field), audience (public or private).  We don't know if there will be private metadata available so all marked private must be optional.
 
-Oh and sorry about the double returns.  It's ignoring single returns.
 
 #### `Title`
 Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.
-Purpose:  To facilitate initial search and discovery.  Truncate description after "plain English".  Sufficient detail is implicit.
-
-Granularity:  Character limit? 100?
-
-Public
+**Purpose:**  To facilitate initial search and discovery.  Truncate description after "plain English".  Sufficient detail is implicit.
+**Granularity:**  Character limit? 100?
+**Public**
 
 #### `Description` 
 Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.
@@ -133,18 +130,13 @@ Public
 #### `Update Frequency`
 Purpose: Right now we're wasting title space with the words Annual, Weekly, Monthly, Quarterly, Every Five Years, whatever.  
 And some data sets may be one-time things.  Take, for example, oh, a post-SXSW customer survey.  They might not ask all the same questions two years in a row. 
-
 But if I'm looking at data for road closures, I  want to know if I need to check back for changes tomorrow or next month. Makes a difference.
-
 Granularity:  editable drop-down list
-
 Public
 
 #### `Related Datasets`
 Purpose:  Separate datasets that may be useful together.  Some of these exist already and have been incorporated into GIS maps -- awesome.  Let's say, bike paths, public parks events, and bus schedules.  All different kinds of data, but if a person is looking at one they might say "oh hey, that one is useful too..."  Could also link datasets with their charted subsets.
-
 Granularity:  title/url
-
 Public
 
 ####`Data Dictionary`
