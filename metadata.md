@@ -83,9 +83,9 @@ Holly - use keywords.  Tags, labels, etc. are used by proprietary software.
 **Public**
 
 ####`Technical Contact`
-Email address of the technical contact responsible for the data.  ONLY if private metadata is allowed.  
-**Purpose:**  if a dataset is stale or has issues, another City user can ask if the set should be marked closed or let them know to fix it. 
-**Granularity:**  what is our longest email address?  Add a few chars and that's it.  
+Email address of the technical contact responsible for the data.  ONLY if private metadata is allowed.   
+**Purpose:**  if a dataset is stale or has issues, another City user can ask if the set should be marked closed or let them know to fix it.   
+**Granularity:**  what is our longest email address?  Add a few chars and that's it.    
 **PRIVATE**  
 
 #### `Category`  GO CHRIS GO
@@ -106,7 +106,7 @@ The code for the COA Department represented by the dataset, as listed by the Bud
 **Public**  
 
 #### `Update Frequency`
-Purpose: Right now we're wasting title space with the words Annual, Weekly, Monthly, Quarterly, Every Five Years, whatever.  
+**Purpose:** Right now we're wasting title space with the words Annual, Weekly, Monthly, Quarterly, Every Five Years, whatever.  
 And some data sets may be one-time things.  Take, for example, oh, a post-SXSW customer survey.  They might not ask all the same questions two years in a row.   
 But if I'm looking at data for road closures, I  want to know if I need to check back for changes tomorrow or next month. Makes a difference.  
 **Granularity:**  editable drop-down list  
