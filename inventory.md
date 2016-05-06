@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'City Dataset Inventory (DRAFT)'
+title: 'City Data Inventory (DRAFT)'
 file: inventory.md
 ---
 
@@ -33,7 +33,7 @@ file: inventory.md
 * Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
 
 
-## Background on City of Austin Dataset Inventory
+## Background on City Data Inventory Process
 
 On April 8, 2015, the City Manager issued a memorandum directing all departments to participate in the City of Austin Open Data Initiative 2.0. Included in that memorandum was a requirement that each department create an inventory of known data that it managed and maintained that would indicate:
 
@@ -60,13 +60,21 @@ The initial working version of the dataset inventory was published in Sharepoint
 * Data Type  
 * Upload Frequency
 
-## City of Austin Data Inventory Policies
+## City Data Inventory Policies
 
-Cupcake ipsum dolor sit. Amet bonbon gingerbread tiramisu croissant. Jujubes jelly-o marzipan chupa chups tiramisu fruitcake lemon drops. Caramels ice cream gummies cake sweet roll tootsie roll soufflé. Candy macaroon toffee lemon drops. Chocolate bar oat cake tart.
+<<This is where we describe the current policies concerning the data inventory.>>
 
 
 
-# How to participate
+
+
+## City Data Inventory Procedures
+
+<<This is where we describe the current procedures for creating the data inventory.>>
+
+
+
+## How to participate
 
 **1. Understand the expectation**
 
