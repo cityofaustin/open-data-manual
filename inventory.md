@@ -27,6 +27,15 @@ d. If the data is in a consumable format;
 e. If the information is from a primary source or has been aggregated or modified; and  
 f. If the information is restricted by any legal, license or privacy restrictions.
 
+Additional guidelines set forth by CTM were that the inventory should:
+
+• Include all data that that is considered “public.” Public data is any data that does not have legal or privacy restrictions and would be subject to Texas Public Information Act requirements. And to include data that is considered “private” in its entirety but that can be shared or considered “public” if sensitive/restricted fields are removed when published. 
+
+• List data sets that are published, planned for publication, that are available online in other formats (pdf, doc, etc.) or those that currently have no plans for publication. Data sets identified as “not for publication” must be accompanied by a justification that will be reviewed by the Open Government Executive Board for exemption.
+
+
+
+
 
 ## About the inventory project
 
