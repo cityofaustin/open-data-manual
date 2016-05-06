@@ -12,9 +12,26 @@ file: inventory.md
 
 ***
 
-## City of Austin Data Inventory Policies
+## About the inventory project
 
-Cupcake ipsum dolor sit. Amet bonbon gingerbread tiramisu croissant. Jujubes jelly-o marzipan chupa chups tiramisu fruitcake lemon drops. Caramels ice cream gummies cake sweet roll tootsie roll soufflé. Candy macaroon toffee lemon drops. Chocolate bar oat cake tart.
+**Project goals**
+
+* Cheesecake cake cake croissant pastry biscuit sweet roll chocolate bar sesame snaps. 
+* Topping toffee wafer gummi bears tootsie roll.
+* Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
+
+**Who should get involved?**
+
+* Cheesecake cake cake croissant pastry biscuit sweet roll chocolate bar sesame snaps. 
+* Topping toffee wafer gummi bears tootsie roll.
+* Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
+
+**Why is a data inventory important?**
+
+* Cheesecake cake cake croissant pastry biscuit sweet roll chocolate bar sesame snaps. 
+* Topping toffee wafer gummi bears tootsie roll.
+* Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
+
 
 ## Background on City of Austin Dataset Inventory
 
@@ -43,26 +60,11 @@ The initial working version of the dataset inventory was published in Sharepoint
 * Data Type  
 * Upload Frequency
 
+## City of Austin Data Inventory Policies
 
-## About the inventory project
+Cupcake ipsum dolor sit. Amet bonbon gingerbread tiramisu croissant. Jujubes jelly-o marzipan chupa chups tiramisu fruitcake lemon drops. Caramels ice cream gummies cake sweet roll tootsie roll soufflé. Candy macaroon toffee lemon drops. Chocolate bar oat cake tart.
 
-**Project goals**
 
-* Cheesecake cake cake croissant pastry biscuit sweet roll chocolate bar sesame snaps. 
-* Topping toffee wafer gummi bears tootsie roll.
-* Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
-
-**Who should get involved?**
-
-* Cheesecake cake cake croissant pastry biscuit sweet roll chocolate bar sesame snaps. 
-* Topping toffee wafer gummi bears tootsie roll.
-* Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
-
-**Why is a data inventory important?**
-
-* Cheesecake cake cake croissant pastry biscuit sweet roll chocolate bar sesame snaps. 
-* Topping toffee wafer gummi bears tootsie roll.
-* Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
 
 # How to participate
 
