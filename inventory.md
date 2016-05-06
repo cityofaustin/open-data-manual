@@ -33,7 +33,7 @@ Additional guidelines set forth by CTM were that the inventory should:
 
 • List data sets that are published, planned for publication, that are available online in other formats (pdf, doc, etc.) or those that currently have no plans for publication. Data sets identified as “not for publication” must be accompanied by a justification that will be reviewed by the Open Government Executive Board for exemption.
 
-The initial working version dataset inventory was published in Sharepoint for internal use only and included the following fields:
+The initial working version of the dataset inventory was published in Sharepoint for internal use only and included the following fields:
 
 Description  
 Dataset Title  
