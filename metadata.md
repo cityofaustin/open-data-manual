@@ -57,7 +57,7 @@ Most recent date on which the dataset was changed, updated or modified.
 #### `Department Budget Code`
 The code for the COA Department represented by the dataset, as listed by the Budget Office. (needs link to dataset)
 
-## `Publisher`
+#### `Publisher`
 The publishing entity and optionally their parent organization(s).
 
 #### `Tags`
