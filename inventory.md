@@ -28,11 +28,13 @@ file: inventory.md
 
 **Why is a data inventory important?**
 
+The following is from the Sunlight Foundation's Open Data Policy Guidelines
+(Source: http://sunlightfoundation.com/opendataguidelines/)
+
 "For an open data policy to have a strong foundation, you first need to know what data you have—and so does the public. Governments should conduct an inventory of existing data early in the process of open data policy development in order for the government and other stakeholders to be aware of the full potential dimensions of data release. While defining total information holdings may be a complex undertaking, governments should conduct as comprehensive a review of existing data information as possible, with the inclusion of information holdings that may benefit from becoming structured data themselves." 
 
 "The inventory should itself be made public. Publicly accounting for agency information helps ensure that information is managed to benefit the public interest, allows for common understanding of what data the government holds, and can create efficiencies among government departments. It empowers policymakers and administrators to determine whether information is being appropriately managed, and empowers the public oversight of those determinations. An individual or group should be charged with oversight of the inventory to ensure its ongoing maintenance and accuracy. To make the listing of data as useful as possible, such a list should also encompass data that may be viewed as sensitive or unlikely to be released (along with any other helpful context.) In addition to setting the stage for meaningful public discussions around dataset release, an inventory process can provide a roadmap for creating ambitious timelines (see Provision 27) and identify whether new data may need to be collected."
 
-- Sun Light Foundation
 
 
 ## City Data Inventory Background
