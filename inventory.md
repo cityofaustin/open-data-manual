@@ -16,9 +16,9 @@ file: inventory.md
 
 **Project goals**
 
-* Cheesecake cake cake croissant pastry biscuit sweet roll chocolate bar sesame snaps. 
-* Topping toffee wafer gummi bears tootsie roll.
-* Donut gummi bears dessert bonbon muffin powder cake bear claw marshmallow.
+* Create a public comprehensive listing of all data holdings.
+* . . .
+* . . .
 
 **Who should get involved?**
 
