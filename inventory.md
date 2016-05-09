@@ -42,12 +42,12 @@ The following is from the Sunlight Foundation's Open Data Policy Guidelines
 
 On April 8, 2015, the City Manager issued a memorandum directing all departments to participate in the City of Austin Open Data Initiative 2.0. Included in that memorandum was a requirement that each department create an inventory of known data that it managed and maintained that would indicate:
 
-a. If the information is publicly-accessible;  
-b. The date of when the information was made publicly-accessible or when it is scheduled to be made public;  
-c. The date the information was last updated or when it is scheduled to be updated;  
-d. If the data is in a consumable format;  
-e. If the information is from a primary source or has been aggregated or modified; and  
-f. If the information is restricted by any legal, license or privacy restrictions.
+* a. If the information is publicly-accessible;  
+* b. The date of when the information was made publicly-accessible or when it is scheduled to be made public;  
+* c. The date the information was last updated or when it is scheduled to be updated;  
+* d. If the data is in a consumable format;  
+* e. If the information is from a primary source or has been aggregated or modified; and  
+* f. If the information is restricted by any legal, license or privacy restrictions.
 
 Additional guidelines set forth by CTM were that the inventory should:
 
