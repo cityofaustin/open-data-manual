@@ -84,7 +84,7 @@ Tags (or keywords) help users discover your dataset; please include terms that w
 ####`Technical Contact`
 Email address of the technical contact responsible for the data.  ONLY if private metadata is allowed.   
 **Purpose:**  if a dataset is stale or has issues, another City user can ask if the set should be marked closed or let them know to fix it.   
-**Granularity:**  what is our longest email address?  Add a few chars and that's it.    
+**Granularity:**  what is our max email address length?      
 **PRIVATE**  
 
 #### `Category`  GO CHRIS GO
