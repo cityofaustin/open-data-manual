@@ -49,7 +49,7 @@ Any time a public dataset is shared internally or publically, it is beneficial t
 
 
 #### `Title`
-Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.
+Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.  
 **Purpose:**  To facilitate initial search and discovery.  Truncate description after "plain English".  Sufficient detail is implicit.  
 **Granularity:**  Character limit? 100?  
 **Public**
