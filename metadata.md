@@ -45,7 +45,7 @@ Any time a public dataset is shared internally or publically, it is beneficial t
 
 # List of required elements:
 
-***Holly*** - to make sure we are thinking these through, I am adding three comment areas to each element:  Purpose (why include this component of metadata?), granularity (scale of element or field), audience (public or private).  We don't know if there will be private metadata available so all marked private must be optional.
+***Holly*** - to make sure we are thinking these through, I am adding three comment areas to each element:  **purpose** (why include this component of metadata?), **granularity** (scale of element or field),  and **public or private**.  We don't know if there will be private metadata available so all marked private must be optional.
 
 
 #### `Title`
