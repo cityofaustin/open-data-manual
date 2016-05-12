@@ -58,7 +58,7 @@ Some titles start with the year, some with the department, some with publishing 
 **Public**
 
 #### `Description` 
-~~Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.   ~~  
+~~Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.~~  
 Description or abstract in plain language with sufficient detail to determine whether the dataset meets the user's needs.
 **Purpose:**  to enable a user to determine whether the asset is of interest  
 **Granularity:** Character limit  500?  1000?  
@@ -66,13 +66,13 @@ Description or abstract in plain language with sufficient detail to determine wh
 
 #### `Last Update`
 Most recent date on which the dataset was changed, updated or modified.   
-***Holly*** - ~~I am assuming this will be automated. ~~  Yes it will be automated!   
+***Holly*** - ~~I am assuming this will be automated.~~  Yes it will be automated!   
 **Purpose:**  identifying stale datasets  
 **Granularity:**  date (could be datetime, but really?)  
 **Public**
 
 #### ~~`Publisher`~~
-~~The publishing entity and optionally their parent organization(s). ~~   
+~~The publishing entity and optionally their parent organization(s).~~   
 
 ***Holly*** Perhaps more specifically   
 #### `City Department`
@@ -106,13 +106,13 @@ Even if categories are optional at the start, it's a good exercise to try to cat
 
 
 #### ~~`Department Budget Code`~~
-~~The code for the COA Department represented by the dataset, as listed by the Budget Office. (needs link to dataset)  ~~  
+~~The code for the COA Department represented by the dataset, as listed by the Budget Office. (needs link to dataset)~~  
 **Purpose:** What information are you trying to impart to the public with this?  Origin of data?  Cost center?  What if the data has no associated cost center?  What if the data published spans several budget areas?  Moved to optional for these reasons.  I'm not really sold on this without a solid user purpose.  Second, would the public even know what a budget code is?  How to interpret it?  I've worked here eight years and I'm still confused.  
 **Granularity:**  same issue  
 **Public**  
 
 #### `Update Frequency`
-**Purpose:** Right now we're wasting title space with the words Annual, Weekly, Monthly, Quarterly, Every Five Years, whatever.  
+**Purpose:** Right now we're wasting title space with the words Annual, Weekly, Monthly, Quarterly, Every Five Years, etc.  
 And some data sets may be one-time things.  Take, for example, oh, a post-SXSW customer survey.  They might not ask all the same questions two years in a row.   
 But if I'm looking at data for road closures, I  want to know if I need to check back for changes tomorrow or next month. Makes a difference.  
 **Granularity:**  editable drop-down list  
