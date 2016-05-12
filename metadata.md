@@ -49,7 +49,7 @@ Any time a public dataset is shared internally or publically, it is beneficial t
 
 
 #### `Title`
-``Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.``  
+~~`Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.`~~  
 Asset name in standard format to facilitate initial search and discovery.  
 
 Some titles start with the year, some with the department, some with publishing frequency (e.g. Annual, Weekly), some with a description.  If we have department and publishing frequency as separate categories, those can be removed from title.  Year should be moved to the end of the title so datasets separated by year sort together.  What else should be in the standard?  
