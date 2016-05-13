@@ -41,7 +41,7 @@ The following is from the Sunlight Foundation's Open Data Policy Guidelines:
 
 "The inventory should itself be made public. Publicly accounting for agency information helps ensure that information is managed to benefit the public interest, allows for common understanding of what data the government holds, and can create efficiencies among government departments. It empowers policymakers and administrators to determine whether information is being appropriately managed, and empowers the public oversight of those determinations. An individual or group should be charged with oversight of the inventory to ensure its ongoing maintenance and accuracy. To make the listing of data as useful as possible, such a list should also encompass data that may be viewed as sensitive or unlikely to be released (along with any other helpful context.) In addition to setting the stage for meaningful public discussions around dataset release, an inventory process can provide a roadmap for creating ambitious timelines and identify whether new data may need to be collected."
 
-## City of Austin Data Inventory Policy Requirements 2.1
+## City of Austin Data Inventory Policy <Requirements 2.1>
 
 ### Create and Maintain an Enterprise Data Inventory
 
