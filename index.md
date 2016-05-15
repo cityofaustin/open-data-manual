@@ -3,9 +3,22 @@ layout: default
 title: Open Data Manual
 ---
 
-<h1>Open Data Manual</h1>
+# Welcome to Austin's Open Data Manual!
 
-<p>Every document is a work in progress. Look for these badges to find out the development status of each document:</p>
+<p class="bg-info"><em>The purpose of this website is to provide a central location for building and publishing documents related to Austin's Open Data Initiative. For a brief introduction to the initiative, click <a href="{{site.baseurl}}/about">here</a>.</em></p>
+
+
+***
+
+
+***
+
+<!-- ### Status of documents and site "things to do": -->
+
+
+
+<!-- 
+<p>Every document is a work in progress. (Coming soon), look for these badges to find out the development status of each document:</p>
 
 <h4>Discovery <span class="badge discovery">?</span></h4>
 
@@ -23,4 +36,4 @@ title: Open Data Manual
 
 <p>The document is considered "in effect", however work doesn’t stop at this stage. We’ll be iteratively improving the document, reacting to new needs and demands, and keeping track of the changes as we go.</p>
 
-<footer>Inspired by gov.uk/service-manual. Contains public sector information licensed under the Open Government Licence v2.0.</footer>
+<footer>Inspired by gov.uk/service-manual. Contains public sector information licensed under the Open Government Licence v2.0.</footer> -->

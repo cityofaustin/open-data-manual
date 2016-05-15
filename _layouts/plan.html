@@ -9,8 +9,23 @@
 
     <div class="container-fluid">
     	<div class="row">
-			{% include sidebar.html %}
+			{% include plans-sidebar.html %}
 			<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main"><!--start of main content-->
+				<h3>About</h3>
+				<p>[mission statement] [goals] [liaison]</p>
+				<!-- <h3>Performance Measures</h3>
+				<p>[programs] [activities] [measures]</p> -->
+				<h3>Information Assets</h3>
+<!-- 				<p>Primary Datasets</p>
+        <ul>
+          {% for dataset in site.data.primary-datasets %}{% if dataset.dept == 'ANM' %}
+            <li>{{ dataset.dataset-name }}</li>
+          {% endif %}{% endfor %}
+        </ul> -->
+        <p>Other Information Products</p>
+				<h3>Data Wishlist</h3>
+				<p>[wishlist items]</p>
+
 				{{ content }}
     		</div><!--end of main content-->
       	</div><!--row-->

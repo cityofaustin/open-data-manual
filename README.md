@@ -2,13 +2,12 @@
 
 This repo is used to develop and publish documents about the City of Austin's Open Data Initiative. The docs, like the initiative, are always changing. This repo helps collaborators improve the docs and preserve older versions for reference.
 
-# Get involved in one of these projects!
+# Current projects include:
 
-- [Publish and maintain the Open Data Liaison Roster](https://github.com/cityofaustin/open-data-docs/milestones/liaison%20roster)
 - [Develop a first version standard for metadata](https://github.com/cityofaustin/open-data-docs/milestones/Metadata%20Standard%20v1.0)
 - [Publish Austin's Open Data Inventory](https://github.com/cityofaustin/open-data-docs/milestones/open%20data%20inventory)
 - [Develop a process for handling open data requests](https://github.com/cityofaustin/open-data-docs/milestones/document%20the%20process%20for%20handling%20new%20dataset%20requests)
-- [Document liaison roles and responsibilities](https://github.com/cityofaustin/open-data-docs/milestones/liaison%20duty%20statement)
+
 
 
 ### Are you a developer interested in helping with the look and feel of this site?
