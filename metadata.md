@@ -143,9 +143,9 @@ Even if categories are optional at the start, it's a good exercise to try to cat
 **Public**  
 
 
-#### Metadata in Socrata not included in this document
+#### Metadata in Socrata not included above
 
-For discussion (Chris I will put this in ASAP if you haven't).
+For discussion purposes (Chris I will put this in ASAP if you haven't done so when I return).
 
 
 
