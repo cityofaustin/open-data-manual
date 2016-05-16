@@ -98,7 +98,7 @@ Most recent date on which the dataset was changed, updated or modified.
 **Public**
 
 #### ~~`Tags`~~  `Keywords`
-~~Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.    ~~
+~~Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.~~   
 **Purpose:**  Technical and plain language search terms not otherwise included in the description or title to assist users in locating the data of interest.  
 **Granularity:** Character limit XXX  
 **Public**  
