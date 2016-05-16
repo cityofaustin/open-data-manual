@@ -208,7 +208,7 @@ To publish to Airtable . . .
 
 # View the current inventory (experimental)
 
-[Metadata AirTable] (https://airtable.com/tblHs9vJwdOxhrbQB/viwh4RJGgLjQSxqTB0)
+[Metadata AirTable] (https://airtable.com/tblHs9vJwdOxhrbQB/viwh4RJGgLjQSxqTB)
 
 [Erin AirTable] (https://airtable.com/tbll3avqmLebbGmS9/viwxHAlM6pk5JrpX8)
 
