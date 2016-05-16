@@ -109,8 +109,6 @@ Email address of the technical contact responsible for the data.  Chris has dete
 **Granularity:**  what is our max email address length?      
 **PRIVATE**  
 
-
-
 ####`Rowcount`
 **Purpose:**  Users can choose to set page size or download dataset depending on the device used and need.  Automated.  
 **Granularity:**  integer  
@@ -143,6 +141,11 @@ Even if categories are optional at the start, it's a good exercise to try to cat
 **Purpose:**  Any clarification necessary for interpreting the data.  Including but not limited to units of measure; explanation of specific technical terms, abbreviations and acronyms; description of terms which exist only in the sphere of interest represented by the data; expansion of column names representing a related series.  
 **Granularity:**  column max but try to keep it brief  
 **Public**  
+
+
+#### Metadata in Socrata not included in this document
+
+For discussion (Chris I will put this in ASAP if you haven't).
 
 
 
