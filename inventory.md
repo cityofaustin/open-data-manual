@@ -84,7 +84,7 @@ Departments should implement tools and processes that will accelerate the openin
 * Use “required” fields and “required-if-applicable” fields on data.austintexas.gov (includes indicating whether data can be made publicly available).
 •	Submit to ODI via INSERT METHOD the inventory as a single JSON file using the defined schema from data.austintexas.gov. ODI invites department input on the option of replacing future submission with an API via a discussion on data.austintexas.gov.
 
-#### Maintain the Enterprise Data Inventory (ongoing after INSERT DATE)
+#### Maintain the Enterprise Data Inventory (ongoing after INSERT DATE) ## Let's discuss Insert dates
 * Continue to expand, enrich, and open the Inventory on an on-going basis
 * Update the Inventory Schedule submitted on INSERT DATE on a quarterly basis on the INSERT ULR OR METHOD
 
@@ -124,8 +124,21 @@ Departments may develop criteria at their discretion for prioritizing the openin
 * .....
 
 
-## Tools for Creating Enterprise and Public Data Inventory
-This is a test of Brad edits. 
+## How to Create Your Data Catalog (Inventory)
+The first major task for the Data Liaisons is to create a data catalog (or inventory) of your
+department’s data. Below we provided guidance on how to do this. But we recognize that this
+will be in part a learning process. As a result, we will make changes to this guidance based on
+your feedback. After the initial catalog creation, this process may continue as new datasets are
+created, discovered or requested by other parties.
+Follow the 3 major steps below to conduct your data inventory:
+  1. Identify data sources
+  2. Brainstorm and identify datasets in each data source
+  3. Complete dataset inventory template (for each dataset)
+We also included an example from the Rent Board that you can use for guidance. Appendix A.
+includes templates to support this process.
+Also, visit these resources for additional guidance:
+  ● [I'm an inline-style link with title] (https://opendata.bloomfire.com "Bloomfire")
+  ● Which includes the “ DataSF Guidebook: Detailed Inventory Guide Steps 2 & 3 ”
 
 
 ### Identification of Data Assets and Datasets
