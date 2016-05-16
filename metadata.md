@@ -98,9 +98,8 @@ Most recent date on which the dataset was changed, updated or modified.
 **Public**
 
 #### ~~`Tags`~~  `Keywords`
-Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.    
-***Holly*** - use keywords.  Tags, labels, etc. are used by proprietary software.   
-**Purpose:** for use in search fields - how would this differ from the information in the description metadata?  Not sure how to define this so the two are explicitly separate.  
+~~Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.    ~~
+**Purpose:**  Technical and plain language search terms not otherwise included in the description or title to assist users in locating the data of interest.  
 **Granularity:** Character limit XXX  
 **Public**  
 
