@@ -53,6 +53,23 @@ Any time a public dataset is shared internally or publically, it is beneficial t
 Asset name in standard format to facilitate initial search and discovery.  
 
 Some titles start with the year, some with the department, some with publishing frequency (e.g. Annual, Weekly), some with a description.  If we have department and publishing frequency as separate categories, those can be removed from title.  Year should be moved to the end of the title so datasets separated by year sort together.  What else should be in the standard?  
+
+With Department and Frequency as categories:  
+  
+Asset Name  
+Asset Name - Date  
+  
+Without one or both:  
+Asset Name - Date, Frequency  
+Asset Name - Date, Department  
+Asset Name - Date, Frequency, Department  
+
+Date formats:   
+YYYY  
+YYYY/QQ  
+YYYY/MM  
+YYYY/MM/DD  
+
 **Purpose:**  To facilitate initial search and discovery.    
 **Granularity:**  Standardized format, character limit 100?  
 **Public**
