@@ -136,9 +136,10 @@ Follow the 3 major steps below to conduct your data inventory:
   3. Complete dataset inventory template (for each dataset)
 We also included an example from the Rent Board that you can use for guidance. Appendix A.
 includes templates to support this process.
-Also, visit these resources for additional guidance:
+Also, visit this resource for additional guidance:
+
   ● [Bloomfire Austin Open Data] (https://opendata.bloomfire.com)
-  ● Which includes the “ DataSF Guidebook: Detailed Inventory Guide Steps 2 & 3 ”
+
 
 
 ### Identification of Data Assets and Datasets
@@ -206,6 +207,8 @@ To publish to Airtable . . .
 * . . .
 
 # View the current inventory (experimental)
+[Metadata AirTable] (https://airtable.com/tblHs9vJwdOxhrbQB/viwh4RJGgLjQSxqTB0)
+[Erin AirTable] (https://airtable.com/tbll3avqmLebbGmS9/viwxHAlM6pk5JrpX8)
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrz1xwqcxvm117x1?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
