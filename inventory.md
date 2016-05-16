@@ -125,6 +125,8 @@ Departments may develop criteria at their discretion for prioritizing the openin
 
 
 ## Tools for Creating Enterprise and Public Data Inventory
+This is a test of Brad edits. 
+
 
 ### Identification of Data Assets and Datasets
 
