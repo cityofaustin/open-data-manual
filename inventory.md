@@ -140,9 +140,48 @@ Also, visit this resource for additional guidance:
 
   ● [Bloomfire Austin Open Data] (https://opendata.bloomfire.com)
 
+## Step 1: Identify data sources
+Your data may be housed in a variety of places from
+inside information systems or databases
+to shared drives and folders. This can also include 3rd party vendors and data hosted on vendor
+systems. Step 1 is about identifying the major data sources in your department.
 
+Questions to help identify and discover data sources:
+  1. What information systems does your department use? On premise or hosted? 
+  2. What databases does your department use? These include databases that are maintained by other departments.
+  3. What applications capture information or are used in your business processes?
+  4. Are some data resources kept in spreadsheets (on shared or individual drives)?
+  5. What reports do you create on a regular basis?
+  5. What information are we already publishing and where did that information come from?  For each of the data sources:
+  6. Provide a name and brief description of the data sources
+  7. Capture any technical details and point of contacts
+Appendix A. includes a templates for this process.
 
-### Identification of Data Assets and Datasets
+### Step 2: Identification of Data Assets and Datasets
+Some of your information sources may be fairly straightforward (e.g. a single sheet in a
+spreadsheet). In these cases, you have already identified the dataset.
+In addition, you may already have a list of datasets you are publishing or plan to publish.
+But others, like relational databases, may be very complex. Identifying subsets of the database
+that could serve as datasets, probably requires some brainstorming. You may want to include
+your PIO, data stewards and lead analysts in this process.
+To help brainstorm, use the questions below:
+  1. What data populates your monthly or quarterly reports?
+  2. What departmental data is currently publicly available on DataSF or elsewhere online?
+  3. What data does your department use for internal performance and trend analysis?
+  4. What information is published as a performance metric?
+  5. What data is reported to federal, state or local agencies?
+  6. Talk with your Public Information Officer (PIO) what data has been requested under Sunshine?
+  7. What data do other departments ask for?
+  8. What kinds of open data are similar agencies across the country publishing?
+      Caution: Don’t exclude any datasets based on privacy or confidentiality concerns! Our goal is to
+      have a holistic picture of our data. Based on this big picture, we can then decide what we should
+      publish. Step 3 provides a means to capture privacy and confidentiality concerns.
+
+## Step 3: Complete dataset inventory template
+For each dataset you identify in Step 2, complete the inventory template. Include:
+1. New datasets (identified via brainstorming)
+2. Existing datasets, including already published datasets
+Appendix A. includes the templates and description of template fields.
 
 #### Purpose
 
@@ -176,11 +215,12 @@ The first step in releasing open data is identifying which data sets or data res
 
 #### Objectives
 
-* ...
-* ...
-* ...
+* Low Inventory Complexity
+* Medium Inventory Complexity
+* High Inventory Complexity
 
 ### Publish Data to Airtable 
+Brad will include instructions to AirTable.
 
 #### Purpose
 
