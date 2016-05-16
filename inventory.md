@@ -137,7 +137,7 @@ Follow the 3 major steps below to conduct your data inventory:
 We also included an example from the Rent Board that you can use for guidance. Appendix A.
 includes templates to support this process.
 Also, visit these resources for additional guidance:
-  ● [I'm an inline-style link with title] (https://opendata.bloomfire.com "Bloomfire")
+  ● [Bloomfire Austin Open Data] (https://opendata.bloomfire.com)
   ● Which includes the “ DataSF Guidebook: Detailed Inventory Guide Steps 2 & 3 ”
 
 
