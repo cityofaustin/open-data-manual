@@ -45,9 +45,6 @@ Any time a public dataset is shared internally or publically, it is beneficial t
 
 # List of required elements:
 
-***Holly*** - to make sure we are thinking these through, I am adding three comment areas to each element:  **purpose** (why include this component of metadata?), **granularity** (scale of element or field),  and **public or private**.   
-
-
 #### `Title`
 ~~Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.~~  
 Asset name in standard format to facilitate initial search and discovery.  
@@ -82,8 +79,7 @@ Description or abstract in plain language with sufficient detail to determine wh
 **Public**  
 
 #### `Last Update`
-Most recent date on which the dataset was changed, updated or modified.   
-***Holly*** - ~~I am assuming this will be automated.~~  Yes it will be automated!   
+Most recent date on which the dataset was changed, updated or modified.   Automated.  
 **Purpose:**  identifying stale datasets  
 **Granularity:**  date (could be datetime, but really?)  
 **Public**
@@ -91,7 +87,6 @@ Most recent date on which the dataset was changed, updated or modified.
 #### ~~`Publisher`~~
 ~~The publishing entity and optionally their parent organization(s).~~   
 
-***Holly*** Perhaps more specifically   
 #### `City Department`
 **Purpose:**  Publisher is a little too generic.  City Department gives the user at least a basic idea where the data came from if they are pursuing further inquiry.   
 **Granularity:**  City department?  Department and division?  Anything more granular than department would need to be optional since datasets may span departments or be the results of collaborative effort.  If we don't have any multi-departmental datasets, then Department is fine.  Drop-down list.  
@@ -100,7 +95,7 @@ Most recent date on which the dataset was changed, updated or modified.
 #### ~~`Tags`~~  `Keywords`
 ~~Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.~~   
 **Purpose:**  Technical and plain language search terms not otherwise included in the description or title to assist users in locating the data of interest.  
-**Granularity:** Character limit XXX  
+**Granularity:** Character limit  
 **Public**  
 
 ####`Technical Contact`
@@ -159,29 +154,27 @@ Even if categories are optional at the start, it's a good exercise to try to cat
 
 #### Metadata in Socrata 
 
-For discussion purposes 
+**For discussion ** 
 department  (City Department)  
 attribution  
-category (Category)
-description (Description)
-title (Title)
-frequency (Update Frequency)
-issued
-modified (Last Update)
-displayType (Types)
-ViewCount(Views)
-downloadCount (Downloads)
-numberOfComments
-viewType (Types)
-accessLevel (public/private)  
-landingPage  
+category (Category)  
+description (Description)  
+title (Title)  
+frequency (Update Frequency)  
+issued  
+modified (Last Update)  
+displayType (Types)  
+ViewCount(Views)  
+downloadCount (Downloads)  
+numberOfComments  
+viewType (Types)  
+accessLevel (public/private)    
+landingPage    
 dtype  
 keyword (Keywords)  
 contactPoint (Technical Contact)  
-publisher
-identifier
-
-
+publisher  
+identifier  
 
 
 #### References
