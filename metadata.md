@@ -154,7 +154,7 @@ Even if categories are optional at the start, it's a good exercise to try to cat
 
 #### Metadata in Socrata 
 
-**For discussion** 
+**For discussion**   
 department  (City Department)  
 attribution  
 category (Category)  
