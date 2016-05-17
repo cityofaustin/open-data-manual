@@ -157,7 +157,7 @@ Questions to help identify and discover data sources:
   7. Capture any technical details and point of contacts
 Appendix A. includes a templates for this process.
 
-### Step 2: Identification of Data Assets and Datasets
+## Step 2: Identification of Data Assets and Datasets
 Some of your information sources may be fairly straightforward (e.g. a single sheet in a
 spreadsheet). In these cases, you have already identified the dataset.
 In addition, you may already have a list of datasets you are publishing or plan to publish.
