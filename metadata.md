@@ -142,10 +142,45 @@ Even if categories are optional at the start, it's a good exercise to try to cat
 **Granularity:**  column max but try to keep it brief  
 **Public**  
 
+#### `Views`
+**Purpose:** Determine whether dataset is being used and/or should be more or less frequently updated  
+**Granularity:** integer   
+**Public**  
 
-#### Metadata in Socrata not included above
+#### `Downloads`
+**Purpose:** Same as Views   
+**Granularity:** integer   
+**Public**  
 
-For discussion purposes (Chris I will put this in ASAP if you haven't done so when I return).
+#### `Types`
+**Purpose:** Similar to viewType/displayType if we can get that clearly defined.  This field would clarify datasets with similar or identical data but offering different formats for different purposes.
+**Granularity:** drop-down list  
+**Public**
+
+#### Metadata in Socrata 
+
+For discussion purposes 
+department  (City Department)  
+attribution  
+category (Category)
+description (Description)
+title (Title)
+frequency (Update Frequency)
+issued
+modified (Last Update)
+displayType (Types)
+ViewCount(Views)
+downloadCount (Downloads)
+numberOfComments
+viewType (Types)
+accessLevel (public/private)  
+landingPage  
+dtype  
+keyword (Keywords)  
+contactPoint (Technical Contact)  
+publisher
+identifier
+
 
 
 
