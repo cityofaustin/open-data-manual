@@ -210,7 +210,7 @@ The first step in releasing open data is identifying which data sets or data res
 ### Assessment and Prioritiazation of Data Assets and Datasets
 
 #### Purpose
-
+Test purpose
 ...
 
 #### Objectives
