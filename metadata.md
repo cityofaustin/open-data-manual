@@ -148,7 +148,7 @@ Even if categories are optional at the start, it's a good exercise to try to cat
 **Public**  
 
 #### `Types`
-**Purpose:** Similar to viewType/displayType if we can get that clearly defined.  This field would clarify datasets with similar or identical data but offering different formats for different purposes.
+**Purpose:** Similar to viewType/displayType if we can get that clearly defined.  This field would clarify datasets with similar or identical data but offering different formats for different purposes.  
 **Granularity:** drop-down list  
 **Public**
 
