@@ -1,256 +1,147 @@
 ---
 layout: page
-title: 'City Data Inventory (DRAFT)'
+title: 'Dataset Inventory Guidelines'
 file: inventory.md
 ---
 
 **Status:** Unapproved draft  
 
-**Next step:** Design inventory schema and add content describe the project  
+**Next step:** Prepare for review and approval by Open Government leadership 
 
 #### Questions and feedback are encouraged! Please submit [here](https://github.com/cityofaustin/open-data-manual/milestones/Open%20Data%20Inventory).
 
 ***
 
-## About the Data Inventory Project
+## Purpose
 
-On April 8, 2015, the City Manager issued a memorandum directing all departments to participate in the City of Austin Open Data Initiative 2.0. Included in that memorandum was a requirement that each department create an inventory of known data that it managed and maintained that would indicate:
+To develop a clear and comprehensive understanding of what datasets exist, each City of Austin department should create an inventory that accounts for all datasets created or collected by the department. After creating the inventory, departments should continually make improvements by striving to expand, enrich, and open the inventory.
 
-* a. If the information is publicly-accessible;  
-* b. The date of when the information was made publicly-accessible or when it is scheduled to be made public;  
-* c. The date the information was last updated or when it is scheduled to be updated;  
-* d. If the data is in a consumable format;  
-* e. If the information is from a primary source or has been aggregated or modified; and  
-* f. If the information is restricted by any legal, license or privacy restrictions.
+## Objectives
 
-Additional guidelines set forth by CTM were that the inventory should:
+- Build an inventory that accounts for the department’s datasets.
+- Include datasets from both internal and external sources.  
+- Indicate if the data may be made publicly available.
+- Describe the data with Open Data Initiative inventory field labels.
 
-* Include all data that that is considered “public.” Public data is any data that does not have legal or privacy restrictions and would be subject to Texas Public Information Act requirements. And to include data that is considered “private” in its entirety but that can be shared or considered “public” if sensitive/restricted fields are removed when published. 
+## Guidelines
 
-* List data sets that are published, planned for publication, that are available online in other formats (pdf, doc, etc.) or those that currently have no plans for publication. Data sets identified as “not for publication” must be accompanied by a justification that will be reviewed by the Open Government Executive Board for exemption.
-
-* The initial working version of the dataset inventory was published in Sharepoint for internal use only and included the following fields: Description; Dataset Title; Publication Status; Justification; Planned Date; Data Type; and Upload Frequency.
-
-## Why is a Data Inventory Important?
-
-The following is from the Sunlight Foundation's Open Data Policy Guidelines:
-
-(Source: http://sunlightfoundation.com/opendataguidelines/)
-
-"For an open data policy to have a strong foundation, you first need to know what data you have—and so does the public. Governments should conduct an inventory of existing data early in the process of open data policy development in order for the government and other stakeholders to be aware of the full potential dimensions of data release. While defining total information holdings may be a complex undertaking, governments should conduct as comprehensive a review of existing data information as possible, with the inclusion of information holdings that may benefit from becoming structured data themselves." 
-
-"The inventory should itself be made public. Publicly accounting for agency information helps ensure that information is managed to benefit the public interest, allows for common understanding of what data the government holds, and can create efficiencies among government departments. It empowers policymakers and administrators to determine whether information is being appropriately managed, and empowers the public oversight of those determinations. An individual or group should be charged with oversight of the inventory to ensure its ongoing maintenance and accuracy. To make the listing of data as useful as possible, such a list should also encompass data that may be viewed as sensitive or unlikely to be released (along with any other helpful context.) In addition to setting the stage for meaningful public discussions around dataset release, an inventory process can provide a roadmap for creating ambitious timelines and identify whether new data may need to be collected."
-
-## City of Austin Data Inventory Policy <Requirements 2.1>
-
-### Create and Maintain an Enterprise Data Inventory
-
-#### Purpose
-
-To develop a clear and comprehensive understanding of what data assets they possess, each City of Austin department is required to create an Enterprise Data Inventory (Inventory) that accounts for all data assets created or collected by the department. This includes, but is not limited to, data assets used in the department’s information systems. The Inventory must be enterprise-wide, accounting for data assets across divisions and program, and must use the required Open Data Initiative metadata schema. After creating the Inventory, departments should continually improve the usefulness of the Inventory by expanding, enriching, and opening the Inventory.
-
-#### Objectives
-
-* Build an internal inventory that accounts for data assets used in the department’s information systems
-* Include data assets produced through department contracts and cooperative agreements, and in some cases deparment-funded grants; include data assets associated with, but not limited to, research, program administration, statistical, and financial activities
-* Indicate if the data may be made publicly available and if currently available
-* Describe the data with Open Data Initiative metadata schema.
-
-#### Framework
-
-Since City departments have varying levels of visibility into their data assets, the size and maturity of agencies’ Enterprise Data Inventories will differ across agencies. CTM will assess department progress toward overall maturity of the Enterprise Data Inventory through the maturity areas of “Expand,” “Enrich,” and “Open.”
-
-##### Expand 
-Expanding the inventory refers to adding additional data assets to the Inventory. Departments should develop their own strategy to expand the inventory and break down the work according to department-defined classes of data. Departments should communicate their plans for expanding the Inventory in the Inventory Schedule (described in the minimum requirements). As departments develop an Inventory Schedule, they may find it helpful to group their data assets into classes of data. 
-
-##### Enrich
-To improve the discoverability, management, and re-usability of data assets, departments should enrich the Inventory over time by improving the quality of metadata describing each data asset. 
-
-##### Open 
-Departments should implement tools and processes that will accelerate the opening of additional valuable data assets by making them public and machine-readable, while ensuring adequate policy, process, and technical safeguards are in place to prevent against the release of sensitive data. Departments are required to increase the number of public data assets included in the Public Data Listing (described in the next section) over time. Departments should work toward increasing the ratio of data that are public and machine-readable to data that can be made public as measured in the Inventory.
-
-### Minimum Requirements to Create and Maintain an Enterprise Data Inventory
-
-#### Develop and submit an Inventory schedule by INSERT DATE
-
-* Describe how the department will ensure that all datasets from each division and program in the department have been identified and accounted for in the Inventory, to the extent practicable, no later than INSERT DATE.
-* Describe how the department plans to expand, enrich, and open their Inventory each quarter through INSERT DATE at a minimum; include a summary and milestones in the schedule
-* Publish Inventory Schedule on the INSERT URL by DATE
-
-#### Create an Enterprise Data Inventory by INSERT DATE
-
-* Include, at a minimum, all dataset which were posted on data.austintexas.gov before INSERT DATE and additional representative datasets from divisions and programs.
-* Ensure the Inventory contains one metadata record for each dataset. A data asset can describe a collection of datasets (such as a CSV file for each state).
-* Use “required” fields and “required-if-applicable” fields on data.austintexas.gov (includes indicating whether data can be made publicly available).
-•	Submit to ODI via INSERT METHOD the inventory as a single JSON file using the defined schema from data.austintexas.gov. ODI invites department input on the option of replacing future submission with an API via a discussion on data.austintexas.gov.
-
-#### Maintain the Enterprise Data Inventory (ongoing after INSERT DATE) ## Let's discuss Insert dates
-* Continue to expand, enrich, and open the Inventory on an on-going basis
-* Update the Inventory Schedule submitted on INSERT DATE on a quarterly basis on the INSERT ULR OR METHOD
-
-### Create and Maintain a Public Data Inventory
-
-#### Purpose
-
-To improve the discoverability and usability of data assets, all departments must contribute to a Public Data Inventory, which contains a list of all data assets that are or could be made available to the public. This Public Data Inventory, posted at data.austintexas.gov, would typically be a subset of the department’s Inventory. This will allow the public to view agencies’ open data assets and subsequent progress as additional data assets are published.
-
-Departments should include entries for non-public data assets in their Public Data Inventory, taking into account guidance regarding information that cannot be made public. For example, an agency may list data assets with an ‘accessLevel’ of ‘restricted public’ to make the public aware of their existence and the process by which these data may be obtained.
-
-#### Objectives
-
-* List any data assets in the department’s Enterprise Data Inventory that can be made publicly available, i.e. not restricted or non-public
-* Publish Public Data Inventory at data.austintexas.gov
-* Include data assets produced through department-funded grants, contracts, and cooperative agreements
-
-#### Publish a Public Data Inventory (by INSERT DATE)
-
-* Include, at a minimum, all data assets that are categorized as "Public" in the Enterprise Data Inventory. By design, a department should be able to filter the Inventory to generate the Public Data Inventory.
-* Publish the Public Data Inventory at data.austintexas.gov.
-* Follow the schema available on INSERT URL.
-* Include link in the data asset’s metadata for all data assets in the Public Data Inventory that are already publicly available on data.austintexas.gov, as opposed to those that could be publicly available.
-
-### Create a Process to Help Facilitate and Prioritize Data Release
-
-#### Purpose
-
-Identifying and engaging with key data customers to help determine the value of City data assets can help departments prioritize those of highest value for quickest release. Data customers include public as well as government stakeholders. 
-
-Departments may develop criteria at their discretion for prioritizing the opening of data assets, accounting for a range of factors, such as the quantity and quality of user demand, internal management priorities, and agency mission relevance. As customer feedback mechanisms and internal prioritization criteria will likely evolve over time and vary across agencies, departments should share successful innovations in incorporating customer feedback through the Open Data Initiative to disseminate best practices. Departments should regularly review the evolving customer feedback and public engagement strategy.
-
-#### Objectives
-
-* .....
-* .....
-* .....
+***
 
 
-## How to Create Your Data Catalog (Inventory)
-The first major task for the Data Liaisons is to create a data catalog (or inventory) of your
-department’s data. Below we provided guidance on how to do this. But we recognize that this
-will be in part a learning process. As a result, we will make changes to this guidance based on
-your feedback. After the initial catalog creation, this process may continue as new datasets are
-created, discovered or requested by other parties.
-Follow the 3 major steps below to conduct your data inventory:
-  1. Identify data sources
-  2. Brainstorm and identify datasets in each data source
-  3. Complete dataset inventory template (for each dataset)
-We also included an example from the Rent Board that you can use for guidance. Appendix A.
-includes templates to support this process.
-Also, visit this resource for additional guidance:
+### Definitions
 
-  ● [Bloomfire Austin Open Data] (https://opendata.bloomfire.com)
+#### What is Data?
 
-## Step 1: Identify data sources
-Your data may be housed in a variety of places from
-inside information systems or databases
-to shared drives and folders. This can also include 3rd party vendors and data hosted on vendor
-systems. Step 1 is about identifying the major data sources in your department.
+A value or set of values representing a specific concept or concepts. Data become “information” when analyzed and possibly combined with other data in order to extract meaning and to provide context. The meaning of data can vary depending on its context.
 
-Questions to help identify and discover data sources:
-  1. What information systems does your department use? On premise or hosted? 
-  2. What databases does your department use? These include databases that are maintained by other departments.
-  3. What applications capture information or are used in your business processes?
-  4. Are some data resources kept in spreadsheets (on shared or individual drives)?
-  5. What reports do you create on a regular basis?
-  5. What information are we already publishing and where did that information come from?  For each of the data sources:
-  6. Provide a name and brief description of the data sources
-  7. Capture any technical details and point of contacts
-Appendix A. includes a templates for this process.
+#### What is a Dataset?
 
-## Step 2: Identification of Data Assets and Datasets
-Some of your information sources may be fairly straightforward (e.g. a single sheet in a
-spreadsheet). In these cases, you have already identified the dataset.
-In addition, you may already have a list of datasets you are publishing or plan to publish.
-But others, like relational databases, may be very complex. Identifying subsets of the database
-that could serve as datasets, probably requires some brainstorming. You may want to include
-your PIO, data stewards and lead analysts in this process.
-To help brainstorm, use the questions below:
-  1. What data populates your monthly or quarterly reports?
-  2. What departmental data is currently publicly available on DataSF or elsewhere online?
-  3. What data does your department use for internal performance and trend analysis?
-  4. What information is published as a performance metric?
-  5. What data is reported to federal, state or local agencies?
-  6. Talk with your Public Information Officer (PIO) what data has been requested under Sunshine?
-  7. What data do other departments ask for?
-  8. What kinds of open data are similar agencies across the country publishing?
-      Caution: Don’t exclude any datasets based on privacy or confidentiality concerns! Our goal is to
-      have a holistic picture of our data. Based on this big picture, we can then decide what we should
-      publish. Step 3 provides a means to capture privacy and confidentiality concerns.
+A dataset is an organized collection of data. The most basic representation of a dataset is data elements presented in tabular form. Each column represents a particular variable. Each row corresponds to a given value of that column’s variable. A dataset may also present information in a variety of non-tabular formats, such as an extended mark-up language (XML) file, a geospatial data file, or an image file.
 
-## Step 3: Complete dataset inventory template
-For each dataset you identify in Step 2, complete the inventory template. Include:
-1. New datasets (identified via brainstorming)
-2. Existing datasets, including already published datasets
-Appendix A. includes the templates and description of template fields.
+***
 
-#### Purpose
 
-The first step in releasing open data is identifying which data sets or data resources to release. There are a number of easy ways to identify data that is suitable for release.
+### How to Facilitate Dataset Discovery
 
-#### Objectives / Methods
+It is the responsibility of liaisons to communicate with departments and data owners and relay the open data strategy by meeting face-to-face with departments to gain a better understanding of their data challenges. In order to fulfill the role of facilitators, liaisons must listen to the various challenges around data that may differ from department to department and be willing to adapt and evolve the plan from what is learned. In addition to discovering needs, these meetings serve to establish ongoing lines of communication with each department.
+Identifying and engaging with key data customers to help determine the value of City datasets can help departments prioritize those of highest value for quickest release. Data customers include public as well as government stakeholders.
 
-##### Identify sources
+***
 
-* Program/Data Owners
-* Legal Counsel
-* Data Stewards/IT
-* Department Executives
-* Public Information Officer
 
-##### Establish research questions
+### How to Create Your Dataset Inventory
 
-* What data (including historical data) does the department collect, maintain, or hold? 
-* What “high value” data are currently publicly available? 
-* What underlying data populates aggregate information in published reports? 
-* What data does the department policy and planning unit use for trending and statistical analysis? 
-* What data are reported to the federal government; or frequently requested by other government entities (federal, state, local)? 
-* What data is the subject of frequent PIR requests? What data is the public requesting? 
-* What data have not been previously published but meet the definition of “high value”? 
+The first task for the data liaisons is to coordinate the creation of a departmental dataset inventory. Below, direction is provided on how to do this. The Open Data Team will make changes to this guidance based on the liaisons’ feedback. After the initial inventory creation, this process may continue as new datasets are created, discovered or requested by others.
 
-### Assessment and Prioritiazation of Data Assets and Datasets
+**Follow the 3 major steps below to conduct your data inventory:**
 
-#### Purpose
-Test purpose
-...
+1. Identify data sources.
+2. Identify datasets from each data source.
+3. Document dataset inventory.
+
+### Step 1: Identify Data Sources
+Data may be housed in a variety of places from inside information systems or databases stored on shared drives and folders. This can also include 3rd party vendors and data hosted on vendor systems. This first step is about identifying the major data sources in your department.
+
+**How to help identify data sources:**<br/>
+
+1. What information systems does your department use?
+2. What databases does your department use?
+3. What applications capture information or are used in your business processes?
+4. Are some data resources kept in spreadsheets (on shared or individual drives)?
+5. What information do you already publish? Where did that information come from?
+
+
+### Step 2: Identify potential datasets from each data source
+Some of your information sources may be fairly straightforward. Frequently generated reports or spreadsheets would be examples of a dataset. Databases, may be very complex. Identifying subsets of the database that could serve as datasets, probably requires some brainstorming. 
+
+**To help identify datasets, use the questions below:**<br/>
+
+1. What datasets are used for reports?
+2. What datasets are publicly available online or elsewhere?
+3. What datasets are used internally?
+4. What information is published as a performance metric?
+5. What data is reported to federal, state or local agencies?
+6. What data do other departments ask for?
+7. Include any datasets that may have sensitive information.
+8. What datasets are included in PIR requests?
+
+### Step 3: Complete dataset inventory template
+For each dataset you identify in Step 2, add those datasets to the inventory. The dataset inventory will contain basic information about each dataset such as its title, description and sensitivity.  
+
+**Required:**<br/>
+
+1. `Department` The formal name of the Department most closely related to the dataset.
+2. `Title` Human-readable name of the dataset. Should be in plain English and include sufficient detail to facilitate search and discovery.
+3. `Description` Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the dataset is of interest.
+4. `Data Source` What is the source system or enterprise application from which the data originates?
+5. `Format` What is the primary state or file format for containing this dataset? (i.e. database, excel, CSV, JSON, other)
+6. `Contains External Data` Does this dataset incorporate information generated by agencies/organizations other than City of Austin?
+7. `Frequency` The frequency with which dataset is published.
+8. `Estimated number of records` The approximate number of rows or records contained within the dataset. 
+9. `Sensitivity` Does the dataset contain any rows and/or columns with potentially sensitive information? Yes or no.
+10. `Contact Name` Contact person name for the dataset.
+11. `Contact Email` Contact person's email for the dataset.
+12. `Unique Identifier` A unique identifier for the dataset or API as maintained within a catalog or database, when applicable.
+
+**Recommended:**<br/>
+
+1. `Division` The division or organizational sub-unit of the department responsible for the dataset.
+2. `Data provided by` The department, division, office, unit, or team responsible for publishing the data.
+3. `Dataset Owner` The username for the account used to create the dataset resource on Socrata.
+4. `Category` Main thematic category of the dataset. (i.e., education, financial, neighborhood).
+5. `Tags` Tags (or keywords) help users discover your dataset; please include terms that would be used by technical and non-technical users.
+6. `Row Label` Brief description of what one row represents; also called grain.
+7. `Spatial` The range of spatial applicability of a dataset. Could include a spatial region like a bounding box or a named place.
+8. `Temporal` The range of temporal applicability of a dataset (i.e., a start and end date of applicability for the data).
+9. `Transforms` Whether or not transformations have been applied between the times it was extracted from the original source and this publication.
+10. `Transform Notes` A description of the steps or BI tools used to stage the data for publication, if applicable. (i.e., MicroStrategy, Microsoft Access)
+
+***
+
+### How to Maintain the Dataset Inventory
+
+Departments should continue to expand and enhance their dataset inventory. Departments should regularly review evolving customer feedback and public engagement. 
+
+With the inventory of datasets, the department will then select their highest priorities. These priorities may include datasets that need to be shared internally as well as datasets that can be shared with the public.  
 
 #### Objectives
 
-* Low Inventory Complexity
-* Medium Inventory Complexity
-* High Inventory Complexity
+1. Expand datasets in the department’s inventory
+2. Expand datasets from both internal and external sources. 
+3. Increase the ratio of public to non-public datasets in the inventory
 
-### Publish Data to Airtable 
-Brad will include instructions to AirTable.
+***
 
-#### Purpose
+### Data Inventory Guidelines Conclusion
 
-To publish to Airtable . . . 
+Departmental inventories will differ in size and maturity. In future phases, the Open Data Initiative will assess department progress toward overall maturity of the dataset inventory through the values of “Expand,” “Enrich,” and “Open.”
 
-#### Objectives
+#### Expand: 
+Expanding the inventory refers to adding additional data assets to the Inventory. Departments should develop their own strategy. Departments should communicate their plans for expanding the inventory to the Open Data Team.
 
-##### Understand the expectation
+#### Enrich:
+To improve the discoverability, management, and re-usability of datasets, departments should enrich the inventory over time by improving the quality of metadata describing each dataset.
 
-* . . .
-* . . .
-* . . .
-
-##### Obtain access to Airtable
-
-* . . .
-* . . .
-* . . .
-
-##### Add rows to the inventory
-
-* . . .
-* . . .
-* . . .
-
-# View the current inventory (experimental)
-
-[Metadata AirTable] (https://airtable.com/tblHs9vJwdOxhrbQB/viwh4RJGgLjQSxqTB)
-
-[Erin AirTable] (https://airtable.com/tbll3avqmLebbGmS9/viwxHAlM6pk5JrpX8)
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrz1xwqcxvm117x1?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+#### Open:
+Departments should implement processes that will accelerate the opening of additional valuable datasets by making them public and machine-readable, while ensuring adequate safeguards are in place to prevent against the release of sensitive data. Departments should increase the number of public datasets included in the dataset inventory over time. 
 
