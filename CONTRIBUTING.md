@@ -7,8 +7,25 @@ Thanks ahead of time for your interest in helping **City of Austin**. In the spi
 - code expertise to resolve issues
 - and obviously, pull requests  
 
+*Before moving forward as a contributor, please review the following to determine if this project is right for you:*
 
-### How to make quick fixes
+```
+I agree my contributions to this project are offered in the spirit 
+of making my city (and potentially other cities around the world) a better place!
+
+I understand and agree to each of the following statements:
+
+- My contributions may be re-used, by pretty much anyone, without my permission
+- My contributions will not entitle me to special treatment or favors from users
+- By contributing to this project, I am releasing my right to ownership of the work contributed
+- If I have any questions or reservations, I will stop contributing until I’ve contacted the City of Austin to discuss and resolve
+- And finally, these terms will be improved over time as CofA GitHub projects evolve, so I’ll review them in good faith so I can stay informed.
+```
+
+Agreed? If so, yay! Let's go --->
+
+
+## How to make quick fixes
 
 ##### 1. Use the GitHub editor in your browser to make some changes: 
 - To find the file you would like to change, click on the Find File button
@@ -26,10 +43,7 @@ Thanks ahead of time for your interest in helping **City of Austin**. In the spi
 - Click on the **Create pull request** button!
 
 
-***
-
-
-### How to contribute as a developer
+## How to contribute as a developer
 
 ##### Our current workflow
 
@@ -48,3 +62,4 @@ If you're still learning version control and/or GitHub, check out these fine ins
 ***
 
 PS Thank you Open Austin for [your work](https://github.com/open-austin/open-austin.github.io/blob/master/CONTRIBUTING.md) that inspired this document =)
+
