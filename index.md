@@ -5,35 +5,23 @@ title: Open Data Manual
 
 # Welcome to Austin's Open Data Manual!
 
-<p class="bg-info"><em>The purpose of this website is to provide a central location for building and publishing documents related to Austin's Open Data Initiative. For a brief introduction to the initiative, click <a href="{{site.baseurl}}/about">here</a>.</em></p>
+The Open Data Initiative at the City of Austin is an all-hands-on-deck effort to make city information easier to find and to use. With championship from Austin City Council and City Manager's Office, all [City Departments](http://liaisons.opendata.rocks) are involved and our work represents part of a [larger effort](.) to make Austin city government more open and user-friendly.
+
+### Who is this manual for?
+
+- Anyone who wants to learn how to use Austin's open data
+- City staff who have been asked to publish open data
+- Folks who want to learn the who/what/why about Austin's Open Data Initiative
+
+
+Browse this manual to learn more about Austin's <a href="{{site.baseurl}}/about">Open Data Initiative</a>, how we publish data, and how to use our data for whatever you want.
+
+Not yet finding what you need? Please [let us know](https://github.com/cityofaustin/open-data-manual/issues/new)!
+
+
 
 
 ***
+*This manual contains public sector information licensed under the Open Government Licence v2.0.*
 
-
-***
-
-<!-- ### Status of documents and site "things to do": -->
-
-
-
-<!-- 
-<p>Every document is a work in progress. (Coming soon), look for these badges to find out the development status of each document:</p>
-
-<h4>Discovery <span class="badge discovery">?</span></h4>
-
-<p>A short phase in which we start researching the needs of the document's users, find out what we should be measuring, and explore technological or policy-related constraints.</p>
-
-<h4>Alpha <span class="badge alpha">a</span></h4>
-
-<p>A short phase in which we prototype solutions for the document. We’ll be testing with a small group of users or stakeholders and getting early feedback about the document's content and layout.</p>
-
-<h4>Beta <span class="badge beta">b</span></h4>
-
-<p>We’re developing against the demands of a live environment, understanding how to review and revise while meeting user needs. We’ll also be releasing a version to test in public.</p>
-
-<h4>Live <span class="badge live">L</span></h4>
-
-<p>The document is considered "in effect", however work doesn’t stop at this stage. We’ll be iteratively improving the document, reacting to new needs and demands, and keeping track of the changes as we go.</p>
-
-<footer>Inspired by gov.uk/service-manual. Contains public sector information licensed under the Open Government Licence v2.0.</footer> -->
+*We are inspired by gov.uk/service-manual! Much gratitude.* 
