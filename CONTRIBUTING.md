@@ -2,7 +2,7 @@
 
 Thanks ahead of time for your interest in helping **City of Austin**. In the spirit of open source and social coding, we welcome your involvement in contributing to our projects such as:
 
-- new issues or bugs
+- new ideas, suggestions, issues or bugs
 - fixes
 - code expertise to resolve issues
 - and obviously, pull requests  
@@ -19,11 +19,17 @@ I understand and agree to each of the following statements:
 - My contributions will not entitle me to special treatment or favors from users
 - By contributing to this project, I am releasing my right to ownership of the work contributed
 - If I have any questions or reservations, I will stop contributing until I’ve contacted the City of Austin to discuss and resolve
-- And finally, these terms will be improved over time as CofA GitHub projects evolve, so I’ll review them in good faith so I can stay informed.
+- And finally, these terms will be improved over time as CoA GitHub projects evolve, so I’ll review them in good faith so I can stay informed.
 ```
 
-Agreed? If so, yay! Let's go --->
+Agreed? If so, let's go! --->
 
+## How to submit an idea or suggestion
+
+##### Use the GitHub Issues feature [here](https://github.com/cityofaustin/open-data-manual/issues/new) to send us your message.
+- You may need to create a free account with GitHub and sign in.
+- If you're not comfortable with that, the City of Austin is also able to accept your message at [this email address](mailto://opendata@austintexas.gov).
+ 
 
 ## How to make quick fixes
 
