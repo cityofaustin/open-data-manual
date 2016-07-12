@@ -1,0 +1,1 @@
+Search.setIndex({envversion:49,filenames:["doc1","doc2","doc3","index"],objects:{},objnames:{},objtypes:{},terms:{content:3,thi:[0,1]},titles:["doc1","doc2","doc3","Home"],titleterms:{austin:3,citi:3,data:3,doc1:0,doc2:1,doc3:2,home:3,manual:3,open:3,thi:2,welcom:3}})
