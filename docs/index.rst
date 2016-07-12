@@ -5,16 +5,15 @@ Home
 Welcome to City of Austin's Open Data Manual!
 ---------------------------------------------
 
-Contents:
-
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
 
-   doc1
-   doc2
-   doc3
-
-
+   About the initiative <about>
+   Open data liaisons <liaisons>
+   Developing open data <developing-data>
+   Publishing open data <publishing-data>
+   Using open data <using-data>
+   
 
 .. * :ref:`genindex`
 .. * :ref:`modindex`
