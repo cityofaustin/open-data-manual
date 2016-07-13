@@ -1,7 +1,4 @@
 ==================================
-Open Data Liaisons 
-==================================
-
 Roles and Responsibilities (draft)
 ==================================
 
@@ -9,12 +6,12 @@ Questions and feedback are encouraged!
 Please submit `here <https://github.com/cityofaustin/open-data-docs/milestones/liaison%20roles%20and%20responsibilities>`_
 
 Introduction
-------------
+==================================
 
 Open Data Liaisons implement their department’s Open Data plans in relation to the City of Austin’s Open Data Initiative (ODI) and City Manager’s “open by default” directive.  The Liaison may be an owner, implementer or coordinator of departmental data and data-related resources.  The liaison will be the single point of contact between the department and the Corporate Open Data team. 
 
 Description of key tasks and areas of responsibility
-----------------------------------------------------
+=====================================================
 
 - Coordinate and manage departmental Open Data efforts in relation to the City of Austin’s ODI.
 - Identify new data sets to be published on the COA Open Data Portal.
@@ -24,7 +21,7 @@ Description of key tasks and areas of responsibility
 - Participate in City of Austin Open Data outreach, workshops, hackathons, projects and partnerships.
 
 Individual Performance Measures
--------------------------------
+==================================
 
 **Successful:**
 
