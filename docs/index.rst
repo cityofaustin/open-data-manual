@@ -74,6 +74,7 @@ Stay tuned for more info about why we have this manual, who it's for, and how to
 .. todo::
 
    - add github issue links to items in to-do boxes
+   - write basic contributing guidelines and publish via CONTRIBUTING.md
 
 
 
