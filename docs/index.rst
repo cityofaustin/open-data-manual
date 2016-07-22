@@ -1,6 +1,10 @@
 Welcome to City of Austin's Open Data Manual!
 ==============================================
 
+This manual is a work in progress, with much of the contents currently in draft form. 
+
+Stay tuned for more info about why we have this manual, who it's for, and how to help maintain it....
+
 **Table of contents**
 
 .. _about-docs:
