@@ -18,6 +18,8 @@ placeholder
 Department inventory guidelines
 =============================================
 
+These guidelines are for City of Austin staff who participate in the inventory process.
+
 Introduction
 ---------------------------------------------
 
