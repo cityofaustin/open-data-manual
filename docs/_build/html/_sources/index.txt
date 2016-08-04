@@ -1,11 +1,44 @@
 Welcome to City of Austin's Open Data Manual!
 ==============================================
 
-**Table of contents**
+The purpose of this manual is to provide a central location for documentation related to Austin's Open Data Initiative. Some of the cool things you can do include: 
+
+- Search all manual pages by using the search bar
+- Browse topics in the Table of Contents menu
+- Generate a PDF to read the manual the old-fashioned way
+- Read the manual page-by-page by scrolling down and clicking 'Next'
+
+
+
+About Austin's Open Data Initiative:
+------------------------------------------------
+
+- What is the Open Data Initiative?
+- Who is involved?
+
+Using Austin's open data resources:
+------------------------------------------------
+
+- Caramels cake pastry apple pie. 
+- Tart pastry cake fruitcake muffin pie fruitcake.
+
+How Austin is developing its open data assets:
+------------------------------------------------
+
+- Caramels candy halvah lollipop icing. 
+- Gingerbread gummies bonbon pudding jelly-o. 
+
+How Austin's open data is published:
+------------------------------------------------
+
+- Caramels candy halvah lollipop icing. 
+- Gingerbread gummies bonbon pudding jelly-o. 
+
 
 .. _about-docs:
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: About the Initiative
 
@@ -18,6 +51,7 @@ Welcome to City of Austin's Open Data Manual!
 .. _liaison-docs:
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: Open Data Liaisons
 
@@ -27,6 +61,7 @@ Welcome to City of Austin's Open Data Manual!
 .. _developing-docs:
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: Developing Open Data
 
@@ -38,6 +73,7 @@ Welcome to City of Austin's Open Data Manual!
 .. _publishing-docs:
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: Publishing Open Data  
 
@@ -50,6 +86,7 @@ Welcome to City of Austin's Open Data Manual!
 .. _using-docs:
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: Using Open Data
 
@@ -60,6 +97,7 @@ Welcome to City of Austin's Open Data Manual!
 .. _contribute-docs:
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: Help write this manual
 
@@ -69,7 +107,10 @@ Welcome to City of Austin's Open Data Manual!
    
 .. todo::
 
+   - create FAQ for the questions on this page
+   - glossary
    - add github issue links to items in to-do boxes
+   - write basic contributing guidelines and publish via CONTRIBUTING.md
 
 
 
