@@ -107,6 +107,8 @@ How Austin's open data is published:
    
 .. todo::
 
+   - create FAQ for the questions on this page
+   - glossary
    - add github issue links to items in to-do boxes
    - write basic contributing guidelines and publish via CONTRIBUTING.md
 
