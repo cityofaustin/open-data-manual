@@ -8,7 +8,7 @@ The purpose of this manual is to provide a central location for documentation re
 - Generate a PDF to read the manual the old-fashioned way
 - Read the manual page-by-page by scrolling down and clicking 'Next'
 
-View this project on GitHub: https://github.com/cityofaustin/open-data-manual.
+View this project on GitHub: https://github.com/cityofaustin/open-data-manual
 
 .. About Austin's Open Data Initiative:
 .. ------------------------------------------------
@@ -87,12 +87,6 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-manual.
    Austin residents and others <contribute-public>
    Software developers <contribute-dev>
    
-.. todo::
-
-   - glossary
-   - add github issue links to items in to-do boxes
-   - write basic contributing guidelines and publish via CONTRIBUTING.md
-
 
 
 .. * :ref:`genindex`
