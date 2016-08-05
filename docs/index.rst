@@ -10,13 +10,11 @@ The purpose of this manual is to provide a central location for documentation re
 
 
 
-About Austin's Open Data Initiative:
-------------------------------------------------
+.. About Austin's Open Data Initiative:
+.. ------------------------------------------------
 
-- What is the Open Data Initiative?
-- Who is involved?
-
-.. centered:: LICENSE AGREEMENT
+.. - What is the Open Data Initiative?
+.. - Who is involved?
 
 .. _about-docs:
 
