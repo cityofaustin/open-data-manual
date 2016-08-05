@@ -16,24 +16,7 @@ About Austin's Open Data Initiative:
 - What is the Open Data Initiative?
 - Who is involved?
 
-Using Austin's open data resources:
-------------------------------------------------
-
-- Caramels cake pastry apple pie. 
-- Tart pastry cake fruitcake muffin pie fruitcake.
-
-How Austin is developing its open data assets:
-------------------------------------------------
-
-- Caramels candy halvah lollipop icing. 
-- Gingerbread gummies bonbon pudding jelly-o. 
-
-How Austin's open data is published:
-------------------------------------------------
-
-- Caramels candy halvah lollipop icing. 
-- Gingerbread gummies bonbon pudding jelly-o. 
-
+.. centered:: LICENSE AGREEMENT
 
 .. _about-docs:
 
@@ -45,7 +28,8 @@ How Austin's open data is published:
    Background <about>
    Authority <authority>
    Governance <governance>
-   Past and current projects <projects>
+   Current and past projects <projects>
+   FAQ <faq>
 ..   Tracking our progress <progress>
 
 .. _liaison-docs:
@@ -107,7 +91,6 @@ How Austin's open data is published:
    
 .. todo::
 
-   - create FAQ for the questions on this page
    - glossary
    - add github issue links to items in to-do boxes
    - write basic contributing guidelines and publish via CONTRIBUTING.md
