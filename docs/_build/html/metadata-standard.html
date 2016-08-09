@@ -89,7 +89,8 @@
 <li class="toctree-l1"><a class="reference internal" href="about.html">Background</a></li>
 <li class="toctree-l1"><a class="reference internal" href="authority.html">Authority</a></li>
 <li class="toctree-l1"><a class="reference internal" href="governance.html">Governance</a></li>
-<li class="toctree-l1"><a class="reference internal" href="projects.html">Past and current projects</a></li>
+<li class="toctree-l1"><a class="reference internal" href="projects.html">Current and past projects</a></li>
+<li class="toctree-l1"><a class="reference internal" href="faq.html">FAQ</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Open Data Liaisons</span></p>
 <ul>
@@ -107,7 +108,23 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="new-datasets.html">How to create new datasets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="licensing-policy.html">Open data licensing policy</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Metadata standard</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Metadata standard</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#purpose-of-this-document">Purpose of this document</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#about-the-metadata-standard">About the metadata standard</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#when-would-someone-use-these-metadata-standards">When would someone use these metadata standards?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#what-does-the-metadata-standard-contain">What does the metadata standard contain?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#design-principles">Design principles</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#when-to-use-these-metadata-elements">When to use these metadata elements:</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#required">Required</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#optional">Optional</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#list-of-required-elements">List of required elements:</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#list-of-optional-elements">List of optional elements:</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="quality-standard.html">Data quality standard</a></li>
 <li class="toctree-l1"><a class="reference internal" href="what-we-dont-publish.html">When not to publish data</a></li>
 </ul>
@@ -176,12 +193,136 @@
             
   <div class="section" id="metadata-standard">
 <h1>Metadata standard<a class="headerlink" href="#metadata-standard" title="Permalink to this headline">¶</a></h1>
+<table border="1" class="docutils">
+<colgroup>
+<col width="9%" />
+<col width="91%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td>Status</td>
+<td>Unapproved draft</td>
+</tr>
+<tr class="row-even"><td>Audience</td>
+<td><ul class="first last simple">
+<li>City staff who publish open data</li>
+<li>Users of open data</li>
+<li>Anyone interested in how or why the City labels its information assets</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td>Contact</td>
+<td>Hailey Pate</td>
+</tr>
+<tr class="row-even"><td>Feedback</td>
+<td>Questions and feedback are encouraged! Please submit <a class="reference external" href="https://github.com/cityofaustin/open-data-docs/milestones/Metadata%20Standard%20v1.0">here.</a></td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="purpose-of-this-document">
+<h2>Purpose of this document<a class="headerlink" href="#purpose-of-this-document" title="Permalink to this headline">¶</a></h2>
+<p>This document explains how to use metadata to describe open data assets held by the City of Austin. By using a common and consistent metadata vocabulary across City departments, we can make it easier for people to discover and use City information.</p>
+</div>
+<div class="section" id="about-the-metadata-standard">
+<h2>About the metadata standard<a class="headerlink" href="#about-the-metadata-standard" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="when-would-someone-use-these-metadata-standards">
+<h3>When would someone use these metadata standards?<a class="headerlink" href="#when-would-someone-use-these-metadata-standards" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>An open data liaison publishing a new resource to the City&#8217;s open data portal</li>
+<li>A City web developer wanting to make a department&#8217;s open data offerings more discoverable by search engines</li>
+<li>A member of the public looking for a dataset to use in a project</li>
+</ul>
+</div>
+<div class="section" id="what-does-the-metadata-standard-contain">
+<h3>What does the metadata standard contain?<a class="headerlink" href="#what-does-the-metadata-standard-contain" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>A list of descriptors (metadata elements) that should be provided whenever a dataset is published on the open data portal</li>
+<li>Description of when to use the metadata elements</li>
+<li>Details about how to use each element correctly</li>
+</ul>
+</div>
+<div class="section" id="design-principles">
+<h3>Design principles<a class="headerlink" href="#design-principles" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Be interoperable with existing standards such as those developed by the Federal Government and popular web search engines</li>
+<li>Start small and increase the number of elements over time</li>
+<li>Develop openly and in close collaboration with end users</li>
+</ul>
+</div>
+</div>
+<div class="section" id="when-to-use-these-metadata-elements">
+<h2>When to use these metadata elements:<a class="headerlink" href="#when-to-use-these-metadata-elements" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="required">
+<h3>Required<a class="headerlink" href="#required" title="Permalink to this headline">¶</a></h3>
+<p>Use of the standard metadata elements is required when publishing any dataset to the open data portal. The metadata values should also be included in the open data inventory.
+&gt; An open dataset is a table, map, or any other resource that is published to the open data portal.</p>
+</div>
+<div class="section" id="optional">
+<h3>Optional<a class="headerlink" href="#optional" title="Permalink to this headline">¶</a></h3>
+<p>Any time a public dataset is shared internally or publically, it is beneficial to include these metadata elements in a note or accessory file that accompanies the share. All City of Austin staff and partners are welcome to use this standard.</p>
+</div>
+</div>
+<div class="section" id="list-of-required-elements">
+<h2>List of required elements:<a class="headerlink" href="#list-of-required-elements" title="Permalink to this headline">¶</a></h2>
+<table border="1" class="docutils">
+        <tr>
+                <td>Department Name</td>
+                <td>The formal name of the Department most closely related to the dataset, according to the current approved budget</td>
+        </tr>
+        <tr>
+                <td>Title</td>
+                <td>Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.</td>
+        </tr>
+        <tr>
+                <td>Description</td>
+                <td>Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.</td>
+        </tr>
+        <tr>
+                <td>Format</td>
+                <td>What is the primary state or file format for containing this dataset? (i.e. database, excel, CSV, JSON, other)</td>
+        </tr>
+        <tr>
+                <td>Data Source</td>
+                <td>What is the source system or enterprise application from which the data originates?</td>
+        </tr>
+        <tr>
+                <td>Frequency</td>
+                <td>The frequency with which dataset is published.</td>
+        </tr>
+        <tr>
+                <td>Estimated Number of Records</td>
+                <td>The approximate number of rows or records contained within the dataset.</td>
+        </tr>
+        <tr>
+                <td>Contains External Data</td>
+                <td>Does this dataset incorporate information generated by agencies/organizations other than City of Austin?</td>
+        </tr>
+        <tr>
+                <td>Sensitivity</td>
+                <td>Does the dataset contain any rows and/or columns with potentially sensitive information? Yes or no.</td>
+        </tr>
+        <tr>
+                <td>Contact Name</td>
+                <td>Contact person’s name and email for the asset.</td>
+        </tr>
+        <tr>
+                <td>Contact Email</td>
+                <td>Contact person’s name and email for the asset.</td>
+        </tr>
+        <tr>
+                <td>Unique Identifier</td>
+                <td>A unique identifier for the dataset or API as maintained within an Agency catalog or database.</td>
+        </tr>
+</table></div>
+<div class="section" id="list-of-optional-elements">
+<h2>List of optional elements:<a class="headerlink" href="#list-of-optional-elements" title="Permalink to this headline">¶</a></h2>
+<p>coming soon</p>
 <div class="admonition-todo admonition" id="index-0">
 <p class="first admonition-title">Todo</p>
 <ul class="last simple">
-<li>write the content (i.e. what is a metadata standard?)</li>
-<li>link to project docs</li>
+<li>add table for optional elements</li>
+<li>add link to technical version of the standard</li>
 </ul>
+</div>
 </div>
 </div>
 
