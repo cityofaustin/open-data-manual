@@ -11,13 +11,10 @@ To keep the manual updated and accessible, we do the following:
 3. Teach people how to help us do these two things
 
 
-## current projects (get involved!)
+## current projects include (get involved!)
 
-- [publish the metadata standard](https://github.com/cityofaustin/open-data-manual/milestone/1)
 - [review the data portal terms of use](https://github.com/cityofaustin/open-data-manual/milestone/11)
-
-- [write documentation for open data inventory](https://github.com/cityofaustin/open-data-manual/milestone/4)
-- 
+- [create a dashboard that shows where we're at in developing the open data manual](https://github.com/cityofaustin/open-data-manual/milestone/12)
 
 ## how to edit the manual
 
