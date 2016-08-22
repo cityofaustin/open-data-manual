@@ -5,4 +5,3 @@ Department Open Data Plans
 Open data planning documents help folks learn about our departments and discover data that interests them. Each department is responsible for maintaining an Open Data Plan. 
 
 These plans can be browsed at our separate site for Open Data Plans -- `plans.opendata.rocks <http://open-data-plans.rtfd.org>`_.
-
