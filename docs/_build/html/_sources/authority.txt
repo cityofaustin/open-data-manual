@@ -8,9 +8,9 @@ Key documents
 ===================================
 
 - Open Government Resolution by City Council - December 8, 2011
-- Open Government Directive - August 26, 2013
-- Austin Government Online Audit - August 2013
+- `Open Government Directive - August 26, 2013 <http://open-data-manual.rtfd.org/directive-3013>`_
 
-.. todo::
 
-   - add links to these docs
+.. seealso::
+
+   - Austin Government Online Audit - August 2013
