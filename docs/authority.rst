@@ -8,7 +8,7 @@ Key documents
 ===================================
 
 - Open Government Resolution by City Council - December 8, 2011
-- `City of Austin Open Government Directive <directive-2013>`_ - August 26, 2013 
+- City of Austin Open Government Directive - August 26, 2013 
 
 
 .. seealso::
