@@ -87,6 +87,11 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-manual
    Austin residents and others <contribute-public>
    Software developers <contribute-dev>
    
+.. toctree::
+   :hidden:
+
+   City of Austin Open Government Directive <directive-2013>
+
 
 
 .. * :ref:`genindex`

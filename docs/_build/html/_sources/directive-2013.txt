@@ -177,3 +177,7 @@ Sources:
 Open Data Handbook - http://opendatahandbook.org/en/
 
 Open Government Initiative - http://opengovernmentinitiative.org
+
+.. seealso::
+
+	- PDF copy of original memo hosted by Open Austin `here <https://www.open-austin.org/advocacy/documents/Memo-to-Mayor-and-Council-with-attached-Open-Government-Directive.pdf>`_.
