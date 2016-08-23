@@ -76,16 +76,6 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-manual
    How to attribute open data <attribute>
    Sending open data feedback <feedback>
 
-.. _contribute-docs:
-
-.. toctree::
-   :hidden:
-   :maxdepth: 3
-   :caption: Help write this manual
-
-   City of Austin staff <contribute-staff>
-   Austin residents and others <contribute-public>
-   Software developers <contribute-dev>
 
 
 
