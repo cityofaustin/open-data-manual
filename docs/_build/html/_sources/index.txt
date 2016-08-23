@@ -1,6 +1,14 @@
 Welcome to City of Austin's Open Data Manual!
 ==============================================
 
+*"Open data is the idea that some data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control."*
+
+   -- `Open Knowledge Foundation <https://okfn.org/opendata/>`_ via `Wikipedia <https://en.wikipedia.org/wiki/Open_data>`_, accessed March 2016
+
+.. raw:: html
+
+   <hr/>
+
 The purpose of this manual is to provide a central location for documentation related to Austin's Open Data Initiative. Some of the cool things you can do include: 
 
 - Search all manual pages by using the search bar
@@ -8,7 +16,12 @@ The purpose of this manual is to provide a central location for documentation re
 - Generate a PDF to read the manual the old-fashioned way
 - Read the manual page-by-page by scrolling down and clicking 'Next'
 
+.. raw:: html
+
+   <hr/>
+
 View this project on GitHub: https://github.com/cityofaustin/open-data-manual
+
 
 .. About Austin's Open Data Initiative:
 .. ------------------------------------------------
