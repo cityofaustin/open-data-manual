@@ -20,6 +20,15 @@ The purpose of this manual is to provide a central location for documentation re
 
    <hr/>
 
+Status
+-----------------------------------------------
+This manual is a work in progress. The table below shows a summary of where we're at:
+
+.. raw:: html
+
+   <iframe class="airtable-embed" src="https://airtable.com/embed/shrjtJxpqZVCzR5UT?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+   <hr/>
+
 View this project on GitHub: https://github.com/cityofaustin/open-data-manual
 
 
